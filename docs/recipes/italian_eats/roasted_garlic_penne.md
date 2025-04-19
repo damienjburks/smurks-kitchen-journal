@@ -18,7 +18,7 @@ This meal is inspired by [EveryPlate], which is what we originally used to make 
 ## Estimated Calories & Sources
 
 | **Ingredient**             | **Quantity** | **Calories**   | **Source**                                                                                                                                                |
-| -------------------------- | ------------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| -------------------------- | ------------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bell Pepper                | 1 medium     | 31 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/bell-peppers?portionamount=1.000&portionid=321550)                                       |
 | Tomatoes                   | 2 medium     | 44 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/red-tomatoes?portionamount=2.000&portionid=34621)                                           |
 | Tomato Paste               | 1.5 oz       | 40 kcal        | [Red Gold PDF](https://www.redgoldfoodservice.com/docs/librariesprovider2/default-document-library/tomato-paste-1-5-oz-packet-ua2z.pdf?sfvrsn=268b640e_0) |
@@ -30,7 +30,7 @@ This meal is inspired by [EveryPlate], which is what we originally used to make 
 | Garlic (raw)               | 2 cloves     | 9 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic?portionamount=2.000&portionid=34170)                                                 |
 | Parmesan Cheese            | 0.75 oz      | 86 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese-%28grated%29?portionamount=0.700&portionid=29214)                           |
 | **Total (for 2 servings)** |              | **1,401 kcal** |                                                                                                                                                           |
-| **Per Serving**            |              | **~700 kcal**  |                                                                                                                                                           | s   |
+| **Per Serving**            |              | **~700 kcal**  |                                                                                                                                                           |
 
 ## Ingredients
 
