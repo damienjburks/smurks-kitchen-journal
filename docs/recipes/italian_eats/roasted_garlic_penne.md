@@ -9,6 +9,8 @@ tags: [italian, pasta, comfort_food, two_servings]
 
 If you love a saucy bowl of pasta packed with roasted goodness, this dish is for you. Tender penne is tossed with caramelized bell pepper, juicy tomatoes, and savory roasted garlic — all coated in a creamy, herb-infused tomato sauce that hugs every bite. Finished with a sprinkle of Parmesan, this cozy bowl is equal parts comforting, flavorful, and photo-worthy.
 
+This meal is inspired by [EveryPlate], which is what we originally used to make this in the past.
+
 > **Serves:** 2  
 > **Prep Time:** ~10 minutes  
 > **Cook Time:** ~35 minutes
@@ -88,8 +90,5 @@ If you love a saucy bowl of pasta packed with roasted goodness, this dish is for
 
 > 🧪 **Poultry Safety Tip**: Chicken is fully cooked when the internal temperature reaches **165°F**.
 
-Let me know if you’d like a printable version or a “cook mode” version (no scrolling, no distractions) down the road!
-
-## References
-
-Everyplate: https://www.everyplate.com/recipes/roasted-garlic-tomato-and-chicken-penne-67e0cc9e7594446a7cdcb9ca
+<!-- Links -->
+[EveryPlate]: https://www.everyplate.com/recipes/roasted-garlic-tomato-and-chicken-penne-67e0cc9e7594446a7cdcb9ca
