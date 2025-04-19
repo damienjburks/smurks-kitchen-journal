@@ -1,30 +1,136 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  /* Refined Light Mode - Olive Grove (Consistent Hover) */
+  --ifm-color-primary: #C1A057;
+  --ifm-color-primary-dark: #a0833a;
+  --ifm-color-primary-darker: #8e7332;
+  --ifm-color-primary-light: #d5b66f;
+  --ifm-color-primary-lighter: #e7cd8f;
+
+  --ifm-background-color: #F4F1EC;
+  --ifm-font-color-base: #2F2F2F;
+  --ifm-navbar-background-color: #EDE6DA;              /* Updated to match footer */
+  --ifm-navbar-link-color: #2F2F2F;
+  --ifm-navbar-link-hover-color: #C1A057;
+
+  --ifm-link-color: #5E7C39;
+  --ifm-link-hover-color: #5E7C39;
+
+  --docusaurus-highlighted-code-line-bg: rgba(193, 160, 87, 0.08);
+
+  --custom-accent-color: #5E7C39;
+  --custom-highlight-color: #5E7C39;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+html[data-theme='dark'] {
+  --ifm-background-color: #1F2A24;
+  --ifm-font-color-base: #EDE6DA;
+  --ifm-navbar-background-color: #1A1F1C;
+  --ifm-navbar-link-color: #EDE6DA;
+  --ifm-navbar-link-hover-color: #C1A057;
+
+  --ifm-color-primary: #C1A057;
+  --ifm-color-primary-dark: #a0833a;
+  --ifm-color-primary-light: #d5b66f;
+  --ifm-link-color: #C1A057;
+  --ifm-link-hover-color: #C1A057;
+
+  --docusaurus-highlighted-code-line-bg: rgba(193, 160, 87, 0.12);
+  --custom-accent-color: #A3C9A8;
+  --custom-highlight-color: #C1A057;
+}
+
+/* TOC Active Link - Light Mode */
+html:not([data-theme='dark']) .table-of-contents__link--active {
+  color: #5E7C39 !important; /* Lighter Olive */
+  font-weight: bold;
+}
+
+/* TOC Active Link - Dark Mode */
+html[data-theme='dark'] .table-of-contents__link--active {
+  color: #C1A057 !important; /* Golden Wheat or preferred highlight */
+  font-weight: bold;
+}
+
+/* Menu Block - Light Mode */
+html:not([data-theme='dark']) .menu__link--active {
+  color: #5E7C39 !important; /* Lighter Olive */
+  font-weight: bold;
+}
+/* Menu Block - Dark Mode */
+html[data-theme='dark'] .menu__link--active {
+  color: #C1A057 !important; /* Golden Wheat or preferred highlight */
+  font-weight: bold;
+}
+
+/* Sidebar links */
+.menu__link {
+  color: var(--ifm-font-color-base);
+}
+.menu__link--active {
+  color: var(--ifm-color-primary);
+}
+
+/* Buttons */
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary-dark);
+  color: #fff;
+}
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+}
+
+/* Footer - Light Mode */
+.footer {
+  background-color: #EDE6DA !important;
+  color: #2F2F2F !important;
+}
+.footer a {
+  color: #5E7C39 !important;
+}
+.footer a:hover {
+  color: #C1A057 !important;
+}
+.footer-title {
+  color: #2F2F2F !important;
+}
+
+/* Footer - Dark Mode */
+html[data-theme='dark'] .footer {
+  background-color: #1A1F1C !important;
+  color: #EDE6DA !important;
+}
+html[data-theme='dark'] .footer a {
+  color: #C1A057 !important;
+}
+html[data-theme='dark'] .footer a:hover {
+  color: #A3C9A8 !important;
+}
+
+/* Navbar - Light Mode */
+.navbar {
+  background-color: #EDE6DA !important;
+  color: #2F2F2F !important;
+  box-shadow: none;
+}
+.navbar__link {
+  color: #2F2F2F !important;
+}
+.navbar__link:hover,
+.navbar__link--active {
+  color: #5E7C39 !important;
+}
+
+/* Navbar - Dark Mode */
+html[data-theme='dark'] .navbar {
+  background-color: #1A1F1C !important;
+  color: #EDE6DA !important;
+  box-shadow: none;
+}
+html[data-theme='dark'] .navbar__link {
+  color: #EDE6DA !important;
+}
+html[data-theme='dark'] .navbar__link:hover,
+html[data-theme='dark'] .navbar__link--active {
+  color: #C1A057 !important;
 }
