@@ -1,0 +1,4 @@
+---
+id: recipes
+title: Recipes
+---

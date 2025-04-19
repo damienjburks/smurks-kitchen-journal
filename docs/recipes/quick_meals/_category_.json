@@ -1,0 +1,10 @@
+{
+    "label": "Quick Meals",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "A collection of quick and easy recipes that are perfect for busy weeknights.",
+      "keywords": ["Quick", "Easy", "Weeknight"],
+      "image": "/img/quick_meals.jpg"
+    }
+  }

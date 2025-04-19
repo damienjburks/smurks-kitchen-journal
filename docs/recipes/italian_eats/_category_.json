@@ -1,0 +1,11 @@
+{
+    "label": "Italian Eats",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "A collection of Italian recipes that are easy to make and delicious to eat.",
+      "keywords": ["Italian", "Pasta", "Pizza"],
+      "image": "/img/italian_eats.jpg",
+      "title": "Italian Eats"
+    }
+  }

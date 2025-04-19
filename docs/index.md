@@ -1,47 +1,34 @@
 ---
+id: welcome
+title: Welcome
+description: A cozy collection of recipes, memories, and culinary joy — from our kitchen to yours.
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Smurks Kitchen Journal
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to our digital recipe heaven — a journal filled with the meals we love, the stories behind them, and the flavors that bring us joy. Curated by **Damien Burks & Eboni Smith**, _Smurks Kitchen Journal_ is a cozy, evolving space for comfort food, experiments, and everyday eats.
 
-## Getting Started
+Whether it’s a simple weeknight curry, a sweet treat we perfected together, or a holiday favorite passed down through family — it lives here.
 
-Get started by **creating a new site**.
+## 🌿 What You’ll Find
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **✨ Homemade Recipes**  
+  Every recipe is written with love — and often tested late at night with jazz in the background and two curious cats at our feet.
 
-### What you'll need
+- **📝 Personal Notes & Tips**  
+  We include the “real talk” behind the meals: what we’d tweak next time, how we substitute ingredients, and the stories that make each dish ours.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- **🍲 Cozy Categories**  
+  From breakfast to dessert, vegan to comfort food — find recipes by category, tag, or vibe.
 
-## Generate a new site
+## 💌 Why We Built This
 
-Generate a new Docusaurus site using the **classic template**.
+We wanted something more personal than a recipe site and more structured than a notebook. Smurks Kitchen Journal is our way of:
 
-The classic template will automatically be added to your project after you run the command:
+- Documenting our culinary life together
+- Sharing our favorites with friends, family, and anyone who loves food
+- Exploring the joy of cooking in a way that’s honest and accessible
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Made with 💚, leftovers, and a little bit of spice —  
+**Damien & Eboni**
