@@ -11,54 +11,54 @@ If you love a saucy bowl of pasta packed with roasted goodness, this dish is for
 
 This meal is inspired by [EveryPlate], which is what we originally used to make this in the past.
 
-> **Serves:** 2  
-> **Prep Time:** ~10 minutes  
-> **Cook Time:** ~35 minutes
+> - **Serves:** 6
+> - **Prep Time:** ~30 minutes
+> - **Cook Time:** ~35 minutes
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity** | **Calories**   | **Source**                                                                                                                                                |
-| -------------------------- | ------------ | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bell Pepper                | 1 medium     | 31 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/bell-peppers?portionamount=1.000&portionid=321550)                                       |
-| Tomatoes                   | 2 medium     | 44 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/red-tomatoes?portionamount=2.000&portionid=34621)                                           |
-| Tomato Paste               | 1.5 oz       | 40 kcal        | [Red Gold PDF](https://www.redgoldfoodservice.com/docs/librariesprovider2/default-document-library/tomato-paste-1-5-oz-packet-ua2z.pdf?sfvrsn=268b640e_0) |
-| Garlic Powder              | 1 tbsp       | 28 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic-powder?portionamount=1.000&portionid=29594)                                          |
-| Penne Pasta (dry)          | 6 oz         | 754 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/penne-cooked?portionamount=6.000&portionid=320987)                                       |
-| Cream Cheese               | 1 oz         | 99 kcal        | [Nutritionix](https://www.nutritionix.com/food/cream-cheese/1-oz)                                                                                         |
-| Chicken Breast (cooked)    | 10 oz        | 308 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-skinless?portionamount=10.000&portionid=4751536)                          |
-| Vegetable Stock            | 1.5 oz       | 2 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/vegetable-broth-bouillon?frc=True&portionamount=1.500&portionid=25566)                   |
-| Garlic (raw)               | 2 cloves     | 9 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic?portionamount=2.000&portionid=34170)                                                 |
-| Parmesan Cheese            | 0.75 oz      | 86 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese-%28grated%29?portionamount=0.700&portionid=29214)                           |
-| **Total (for 2 servings)** |              | **1,401 kcal** |                                                                                                                                                           |
-| **Per Serving**            |              | **~700 kcal**  |                                                                                                                                                           |
+| **Ingredient**             | **Quantity** | **Calories**    | **Source**                                                                                                                                                |
+| -------------------------- | ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bell Pepper                | 3 medium     | 93 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/bell-peppers?portionamount=1.000&portionid=321550)                                       |
+| Tomatoes                   | 6 medium     | 264 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/red-tomatoes?portionamount=2.000&portionid=34621)                                           |
+| Tomato Paste               | 4.5 oz       | 180 kcal        | [Red Gold PDF](https://www.redgoldfoodservice.com/docs/librariesprovider2/default-document-library/tomato-paste-1-5-oz-packet-ua2z.pdf?sfvrsn=268b640e_0) |
+| Garlic Powder              | 3 tbsp       | 84 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic-powder?portionamount=1.000&portionid=29594)                                          |
+| Penne Pasta (dry)          | 18 oz        | 2,262 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/penne-cooked?portionamount=6.000&portionid=320987)                                       |
+| Cream Cheese               | 3 oz         | 297 kcal        | [Nutritionix](https://www.nutritionix.com/food/cream-cheese/1-oz)                                                                                         |
+| Chicken Breast (cooked)    | 30 oz        | 924 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-skinless?portionamount=10.000&portionid=4751536)                          |
+| Vegetable Stock            | 4.5 oz       | 6 kcal          | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/vegetable-broth-bouillon?frc=True&portionamount=1.500&portionid=25566)                   |
+| Garlic (raw)               | 6 cloves     | 27 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic?portionamount=2.000&portionid=34170)                                                 |
+| Parmesan Cheese            | 2.25 oz      | 258 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese-%28grated%29?portionamount=0.700&portionid=29214)                           |
+| **Total (for 6 servings)** |              | **4,203 kcal**  |                                                                                                                                                           |
+| **Per Serving**            |              | **~2,100 kcal** |                                                                                                                                                           |
 
 ## Ingredients
 
 ### Produce
 
-- 1 Bell Pepper (sliced into strips)
-- 2 Tomatoes (cut into ½-inch wedges)
-- 2 cloves Garlic
-- 2 TBSP Italian Seasoning _(prep separately — store-bought or homemade)_
+- 3 Bell Pepper (sliced into strips)
+- 6 Tomatoes (cut into ½-inch wedges)
+- 6 cloves Garlic
+- 6 TBSP Italian Seasoning _(prep separately — store-bought or homemade)_
 
 ### Pantry
 
-- 6 oz Penne Pasta _(note: we had 15 oz total)_
-- 1.5 oz Tomato Paste
-- 1 TBSP Garlic Powder
-- 1.5 oz Veggie Stock (or 1 concentrate)
-- 1 TBSP Butter
+- 18 oz Penne Pasta
+- 4.5 oz Tomato Paste
+- 3 TBSP Garlic Powder
+- 5.5 oz Veggie Stock (or 1 concentrate)
+- 3 TBSP Butter
 - Olive Oil
 - Salt & Pepper
 
 ### Dairy
 
-- 1 oz Cream Cheese
-- 0.75 oz Parmesan Cheese
+- 3 oz Cream Cheese
+- 2.25 oz Parmesan Cheese
 
 ### Protein
 
-- 10 oz Chopped Chicken Breast
+- 30 oz Chopped Chicken Breast
 
 ## Instructions
 
