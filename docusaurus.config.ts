@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://smurks-kitchen-journal.github.io',
+  url: 'https://kitchen.damienjburks.com',
   
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -18,8 +18,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "devsecblueprint", // Usually your GitHub org/user name.
-  projectName: "devsecblueprint", // Usually your repo name.
+  organizationName: "damienjburks", // Usually your GitHub org/user name.
+  projectName: "smurks-kitchen-journal", // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
