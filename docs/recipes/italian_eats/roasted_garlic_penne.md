@@ -5,6 +5,8 @@ description: A cozy, two-person pasta dinner packed with roasted veggies, tender
 tags: [italian, pasta, comfort_food, two_servings]
 ---
 
+![Cover Picture](/img/italian_eats/roasted_garlic_penne/roasted_garlic_penne.png)
+
 ## Overview
 
 If you love a saucy bowl of pasta packed with roasted goodness, this dish is for you. Tender penne is tossed with caramelized bell pepper, juicy tomatoes, and savory roasted garlic — all coated in a creamy, herb-infused tomato sauce that hugs every bite. Finished with a sprinkle of Parmesan, this cozy bowl is equal parts comforting, flavorful, and photo-worthy.
