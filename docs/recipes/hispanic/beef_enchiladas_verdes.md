@@ -88,7 +88,7 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
    - Add beef and cook, breaking it up with a spoon.
    - Season with Southwest Spice Blend, salt, and pepper.
    - Cook until browned and cooked through, 4–6 minutes.
-   - Stir in ¼ of the salsa verde (you’ll use the rest later); taste and adjust seasoning as needed.
+   - Stir in 3/4 of the salsa verde (you’ll use the rest later); taste and adjust seasoning as needed.
    - Turn off heat and transfer beef mixture to a medium bowl. Wipe out pan.
 
 5. **Assemble the Enchiladas:**  
