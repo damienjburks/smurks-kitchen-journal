@@ -5,6 +5,7 @@
       "type": "generated-index",
       "description": "A collection of light and healthy recipes that are perfect for any occasion.",
       "keywords": ["Light", "Healthy", "Salads"],
-      "image": "/img/light_and_healthy.jpg"
+      "image": "/img/light_and_healthy.jpg",
+      "title": "Light & Healthy"
     }
 }

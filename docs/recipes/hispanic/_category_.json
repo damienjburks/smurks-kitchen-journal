@@ -1,0 +1,11 @@
+{
+    "label": "Hispanic Quisine",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "A collection of delicious Mexican recipes that are easy to make and perfect for any occasion.", 
+      "keywords": ["Hispanic", "Tacos", "Burritos"],
+      "image": "/img/mexican.jpg",
+      "title": "Hispanic Quisine"
+    }
+  }

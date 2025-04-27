@@ -5,6 +5,7 @@
       "type": "generated-index",
       "description": "A collection of comforting recipes that are perfect for any occasion.",
       "keywords": ["Comfort", "Food", "Recipes"],
-      "image": "/img/comfort_food.jpg"
+      "image": "/img/comfort_food.jpg",
+      "title": "Comfort Food"
     }
   }

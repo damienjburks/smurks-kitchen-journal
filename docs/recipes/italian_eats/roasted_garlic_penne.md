@@ -2,10 +2,10 @@
 id: roasted-tomato-chicken-penne
 title: Roasted Garlic, Tomato, Bell Pepper & Chicken Penne
 description: A cozy, two-person pasta dinner packed with roasted veggies, tender chicken, and a garlic-herb cream sauce.
-tags: [italian, pasta, comfort_food, two_servings]
+tags: [italian, pasta, comfort]
 ---
 
-![Cover Picture](/img/italian_eats/roasted_garlic_penne/roasted_garlic_penne.png)
+![Cover Picture](/img/italian_eats/roasted_garlic_penne/cover.png)
 
 ## Overview
 
