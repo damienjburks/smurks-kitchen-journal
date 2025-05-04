@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Welcome to Smurks Kitchen Journal
 
-Welcome to our digital recipe heaven — a journal filled with the meals we love, the stories behind them, and the flavors that bring us joy. Curated by **Damien Burks & Eboni Smith**, _Smurks Kitchen Journal_ is a cozy, evolving space for comfort food, experiments, and everyday eats.
+Welcome to our digital recipe heaven — a journal filled with the meals we love, the stories behind them, and the flavors that bring us joy. Curated by **Damien & Eboni** with :heart:, _Smurks Kitchen Journal_ is a cozy, evolving space for comfort food, experiments, and everyday eats.
 
 Whether it’s a simple weeknight curry, a sweet treat we perfected together, or a holiday favorite passed down through family — it lives here.
 
