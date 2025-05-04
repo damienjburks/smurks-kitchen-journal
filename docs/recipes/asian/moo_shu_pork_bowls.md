@@ -98,4 +98,4 @@ This recipe is inspired by [Hello Fresh], which we originally used to make this 
 
 <!-- Links -->
 
-[Hello Fresh]: https://www.hellofresh.com/recipes/one-pan-beef-enchiladas-verdes-646be3ba27c3a0018f11a303s
+[Hello Fresh]: https://www.hellofresh.com/recipes/moo-shu-pork-bowls-61cb2d5696416a73f4200714
