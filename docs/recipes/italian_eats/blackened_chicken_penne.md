@@ -45,7 +45,7 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
 ### Produce
 
 - 6 Scallions
-- 3 cloves Garlic
+- 3 Cloves of Garlic
 - 3 Roma Tomatoes
 - 3 Long Green Peppers
 
