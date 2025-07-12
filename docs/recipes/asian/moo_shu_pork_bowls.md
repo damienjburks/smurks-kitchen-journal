@@ -1,4 +1,5 @@
 ---
+id: moo-shu-pork-bowls
 title: Moo Shu Pork Bowls
 description: A quick and flavorful twist on the classic Moo Shu Pork, served in bowls with jasmine rice, red cabbage, and a tangy hoisin-soy glaze.
 tags:
@@ -14,7 +15,7 @@ tags:
 
 These Moo Shu Pork Bowls are a fast, flavorful take on the classic Chinese dish—no pancake wraps required. Ground pork is stir-fried with red cabbage, scallions, and a tangy hoisin-soy glaze, then served over buttery jasmine rice. Finished with a sprinkle of sesame seeds, scallion greens, and fresh lime, each bite delivers sweet, savory, and slightly spicy satisfaction.
 
-This recipe is inspired by [Hello Fresh], which we originally used to make this at home.
+This recipe is inspired by [HelloFresh], which we originally used to make this at home.
 
 > - **Serves:** 6
 > - **Prep Time:** ~15 minutes
@@ -91,11 +92,11 @@ This recipe is inspired by [Hello Fresh], which we originally used to make this 
 
 ### Step 4: Finish & Serve
 
-- Fluff rice with a fork and mix in 1 tbsp butter until melted.  
+- Fluff rice with a fork and mix in  tbsp butter until melted.  
 - Divide rice between bowls. Top with moo shu pork mixture.  
 - Garnish with scallion greens and sesame seeds.  
 - Serve with extra lime wedges on the side.
 
 <!-- Links -->
 
-[Hello Fresh]: https://www.hellofresh.com/recipes/moo-shu-pork-bowls-61cb2d5696416a73f4200714
+[HelloFresh]: https://www.hellofresh.com/recipes/moo-shu-pork-bowls-61cb2d5696416a73f4200714

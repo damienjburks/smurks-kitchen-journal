@@ -19,7 +19,7 @@ tags:
 
 Bring the energy of a NYC halal cart straight to your kitchen with this oven-baked take on street cart chicken and rice. Tender chopped chicken breast is seasoned with warm Shawarma spices and roasted over fragrant basmati rice in one easy-to-clean tray. Served with juicy tomatoes, crisp greens, and a drizzle of hot sauce, this comforting and flavorful meal is a weeknight favorite.
 
-This recipe is inspired by [Hello Fresh], which we originally used to make this at home.
+This recipe is inspired by [HelloFresh], which we originally used to make this at home.
 
 > - **Serves:** 6
 > - **Prep Time:** ~10 minutes
@@ -108,5 +108,5 @@ Chicken is fully cooked when it reaches an internal temperature of **165°F**.
 
 <!-- Links -->
 
-[Hello Fresh]: https://www.hellofresh.com/recipes/street-cart-chicken-and-rice-6761a1febdfa7f79d1f16a2a
+[HelloFresh]: https://www.hellofresh.com/recipes/street-cart-chicken-and-rice-6761a1febdfa7f79d1f16a2a
 [Shawarma Spice Blend]: https://shop.sprouts.com/store/sprouts/products/18075019-new-york-shuk-shawarma-1-8-oz

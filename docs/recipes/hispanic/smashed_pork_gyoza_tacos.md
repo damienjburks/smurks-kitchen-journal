@@ -13,7 +13,7 @@ tags:
 
 A fusion of Japanese gyoza flavors and Mexican street tacos, these Smashed Pork Gyoza Tacos are a bold, delicious twist on Taco Tuesday. Savory pork meatballs are smashed onto tortillas and pan-seared to crispy perfection, then topped with a refreshing pickled cucumber-carrot slaw and a creamy Sriracha mayo drizzle. Balanced with heat, crunch, and umami, this dish is sure to wow at your next dinner night.
 
-This recipe is inspired by [Hello Fresh], which we originally used to make this at home.
+This recipe is inspired by [HelloFresh], which we originally used to make this at home.
 
 > - **Serves:** 6
 > - **Prep Time:** ~30 minutes
@@ -115,4 +115,4 @@ This recipe is inspired by [Hello Fresh], which we originally used to make this 
 
 <!-- Links -->
 
-[Hello Fresh]: https://www.hellofresh.com/recipes/smashed-pork-gyoza-tacos-6682ebfe88a40e5df74250d6
+[HelloFresh]: https://www.hellofresh.com/recipes/smashed-pork-gyoza-tacos-6682ebfe88a40e5df74250d6

@@ -7,7 +7,7 @@ tags:
   - One-Pan Meals
   - Pork Recipes
   - Comfort Food
-  - Hello Fresh Inspired
+  - HelloFresh Inspired
 ---
 
 ![Pork Sausage Couscous Bowls](/img/mediterranean/sausage_couscous_bowls/cover.png)
@@ -16,7 +16,7 @@ tags:
 
 Hearty Italian sausage simmers with springy pearl couscous, marinara, spinach, herbs, and a blend of melty Italian cheeses — all baked together in a single oven tray for a delicious, no-fuss meal. Topped with Parmesan and ready in just about 35 minutes, this cozy dish brings maximum comfort with minimal cleanup. Toss the empty tray when you’re done — dinner made easy!
 
-This meal is inspired by [Hello Fresh], which we originally used to make this in the past.
+This meal is inspired by [HelloFresh], which we originally used to make this in the past.
 
 > - **Serves:** 6
 > - **Prep Time:** ~10 minutes
@@ -101,6 +101,6 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
 
 <!-- Links -->
 
-[Hello Fresh]: https://www.hellofresh.com/recipes/pork-sausage-couscous-bowls-67cec6e76a498293bec85b1c
+[HelloFresh]: https://www.hellofresh.com/recipes/pork-sausage-couscous-bowls-67cec6e76a498293bec85b1c
 [Vidalia Onion Spice]: https://www.walmart.com/ip/VIDALIA-BRANDS-SSNNG-FRENCH-ONION-5-OZ-Pack-of-8/171783314?wmlspartner=wlpa&selectedSellerId=101621815&selectedOfferId=6182B2E178FB309D9FBE262C7EB206EE&conditionGroupCode=1&adid=22222222222000000000&wmlspartner=wmtlabs&wl0=e&wl1=o&wl2=c&wl3=10352200394&wl4=pla-1103028060075&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=171783314_10001641171&wl14=vidalia%20onion%20seasoninig&veh=sem&gclid=f0bd03b789d9198f44466bb9eeb28e70&gclsrc=3p.ds&msclkid=f0bd03b789d9198f44466bb9eeb28e70
 [Tuscan Heat Spice]: https://whatayummy.com/hello-fresh-tuscan-heat-spice/#What_is_Tuscan_Heat_Spice

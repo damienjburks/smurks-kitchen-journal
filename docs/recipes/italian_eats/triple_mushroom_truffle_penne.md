@@ -10,7 +10,7 @@ tags: [italian, pasta, veggie]
 
 If you're craving a rich and savory pasta dish that’s full of umami flavor, this one’s for you. Al dente penne is tossed in a decadent truffle cream sauce loaded with sautéed mushrooms, diced tomatoes, and scallions. A sprinkle of toasted garlic panko and freshly grated Parmesan adds just the right amount of crunch and saltiness to each bite.
 
-This meal is inspired by [Hello Fresh], which is what we originally used to make this in the past.
+This meal is inspired by [HelloFresh], which is what we originally used to make this in the past.
 
 > - **Serves:** 6
 > - **Prep Time:** ~15 minutes
@@ -95,4 +95,4 @@ This meal is inspired by [Hello Fresh], which is what we originally used to make
 
 <!-- Links -->
 
-[Hello Fresh]: https://www.hellofresh.com/recipes/triple-mushroom-truffle-penne-646be17d27c3a0018f11a2d6
+[HelloFresh]: https://www.hellofresh.com/recipes/triple-mushroom-truffle-penne-646be17d27c3a0018f11a2d6

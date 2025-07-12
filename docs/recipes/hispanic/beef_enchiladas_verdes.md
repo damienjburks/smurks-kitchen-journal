@@ -14,7 +14,7 @@ tags:
 
 When it comes to Mexican-style cuisine, burritos usually steal the spotlight — but enchiladas deserve just as much love. They're technically easier-to-assemble burritos that get smothered in a delicious sauce, but really, they're so much more than that! Our version starts with spiced beef and charred green peppers, rolled up in warm tortillas, topped with tangy salsa verde and melty cheese, then baked until golden and bubbly. Hear that? That’s the sound of the dinner bell!
 
-This meal is inspired by [Hello Fresh], which we originally used to make this in the past.
+This meal is inspired by [HelloFresh], which we originally used to make this in the past.
 
 > - **Serves:** 6
 > - **Prep Time:** ~15 minutes
@@ -113,4 +113,4 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
 - Customize your spice level by adding more or less hot sauce to the crema.
 
 <!-- Links -->
-[Hello Fresh]: https://www.hellofresh.com/recipes/one-pan-beef-enchiladas-verdes-646be3ba27c3a0018f11a303
+[HelloFresh]: https://www.hellofresh.com/recipes/one-pan-beef-enchiladas-verdes-646be3ba27c3a0018f11a303

@@ -7,7 +7,7 @@ tags:
   - Chicken Recipes
   - Comfort Food
   - One-Pan Meals
-  - Hello Fresh Inspired
+  - HelloFresh Inspired
 ---
 
 ![Blackened Chicken Penne](/img/italian_eats/blackened_chicken_penne/cover.png)
@@ -16,7 +16,7 @@ tags:
 
 This pasta may break the rules, but it does so deliciously: Instead of going the traditional Italian route, we mix things up with bold Southwestern flavors. Chicken breast strips are seasoned with blackening spices and tossed in the pan until perfectly smoky and savory. Poblano pepper and diced tomato add texture and flair, while a creamy Monterey Jack cheese sauce brings supreme richness to the penne.
 
-This meal is inspired by [Hello Fresh], which we originally used to make this in the past.
+This meal is inspired by [HelloFresh], which we originally used to make this in the past.
 
 > - **Serves:** 6
 > - **Prep Time:** ~10 minutes
@@ -116,4 +116,4 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
 
 <!-- Links -->
 
-[Hello Fresh]: https://www.hellofresh.com/recipes/blackened-chicken-penne-61b0d03ab3a03377ee6b1b04
+[HelloFresh]: https://www.hellofresh.com/recipes/blackened-chicken-penne-61b0d03ab3a03377ee6b1b04
