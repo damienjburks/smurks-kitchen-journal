@@ -8,7 +8,7 @@ tags:
   - Light and Healthy
 ---
 
-![Turkey & Greek Salad Lettuce Wraps](/img/light_and_healthy/turkey_greek_salad_lettuce_wraps/cover.png)
+![Turkey & Greek Salad Lettuce Wraps](/img/light_and_healthy/turkey_and_greek_lettuce_wraps/cover.png)
 
 ## Overview
 

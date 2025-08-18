@@ -1,5 +1,5 @@
 ---
-title: "Skip The Bun" Crunchy Cheeseburger Salad
+title: Skip The Bun Crunchy Cheeseburger Salad
 description: All the flavors of a loaded cheeseburger—savory seasoned beef, crisp lettuce, juicy tomatoes, tangy pickles, melty cheese, and special sauce—served in a fresh, low-carb salad bowl.
 tags:
   - Fusion Food

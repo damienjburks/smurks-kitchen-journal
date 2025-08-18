@@ -8,7 +8,7 @@ tags:
   - Beef Recipes
 ---
 
-![One-Pan Banh-Mi-Style Beef Tacos](/img/hispanic/banh_mi_beef_tacos/cover.png)
+![One-Pan Banh-Mi-Style Beef Tacos](/img/hispanic/banh_mi_style_beef_tacos/cover.png)
 
 ## Overview
 
