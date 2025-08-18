@@ -1,16 +1,7 @@
 ---
 title: Street Cart Chicken & Rice (Prep and Bake)
 description: A flavorful and comforting oven-baked recipe inspired by NYC halal carts, featuring tender chicken, fragrant basmati rice, and fresh sides.
-tags:
-  [
-    Mediterranean,
-    Chicken,
-    Rice,
-    Halal,
-    Oven-Baked,
-    Weeknight Meals,
-    Comfort Food,
-  ]
+tags: [Mediterranean, Chicken, Rice, Halal, Oven-Baked, Weeknight Meals, Comfort Food]
 ---
 
 ![Cover](/img/mediterranean/street_cart_chicken_and_rice/cover.png)

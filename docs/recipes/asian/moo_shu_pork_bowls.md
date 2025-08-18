@@ -3,10 +3,10 @@ id: moo-shu-pork-bowls
 title: Moo Shu Pork Bowls
 description: A quick and flavorful twist on the classic Moo Shu Pork, served in bowls with jasmine rice, red cabbage, and a tangy hoisin-soy glaze.
 tags:
-    - Asian Cuisine
-    - Pork Recipes
-    - Quick Meals
-    - Stir-Fry
+  - Asian Cuisine
+  - Pork Recipes
+  - Quick Meals
+  - Stir-Fry
 ---
 
 ![Cover](/img/asian/moo_shu_pork_bowls/cover.png)
@@ -70,31 +70,31 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 
 ### Step 1: Cook Rice & Prep
 
-- Wash and dry produce.  
-- In a small pot, combine jasmine rice, ¾ cup water (1½ cups for 4 servings), and a pinch of salt.  
-- Bring to a boil, then reduce heat to low. Cover and cook 15–18 minutes until tender.  
-- Keep covered off heat.  
+- Wash and dry produce.
+- In a small pot, combine jasmine rice, ¾ cup water (1½ cups for 4 servings), and a pinch of salt.
+- Bring to a boil, then reduce heat to low. Cover and cook 15–18 minutes until tender.
+- Keep covered off heat.
 - While rice cooks, slice scallions (separate whites and greens) and quarter the limes.
 
 ### Step 2: Cook Pork
 
-- Heat a drizzle of olive oil in a large pan over medium-high heat.  
+- Heat a drizzle of olive oil in a large pan over medium-high heat.
 - Add pork and cook, breaking it up with a spoon, until browned and cooked through, 4–6 minutes.  
-**TIP:** Drain excess grease, if necessary.
+  **TIP:** Drain excess grease, if necessary.
 
 ### Step 3: Make the Stir-Fry
 
-- Stir in scallion whites and shredded cabbage.  
-- Cook for 2–3 minutes until just tender.  
-- Add hoisin sauce, Thai chili sauce, 2½ tbsp sweet soy glaze, and ½ tsp sugar. Stir until evenly combined.  
-- Turn off heat.  
+- Stir in scallion whites and shredded cabbage.
+- Cook for 2–3 minutes until just tender.
+- Add hoisin sauce, Thai chili sauce, 2½ tbsp sweet soy glaze, and ½ tsp sugar. Stir until evenly combined.
+- Turn off heat.
 - Add juice from half a lime and season with salt and pepper.
 
 ### Step 4: Finish & Serve
 
-- Fluff rice with a fork and mix in  tbsp butter until melted.  
-- Divide rice between bowls. Top with moo shu pork mixture.  
-- Garnish with scallion greens and sesame seeds.  
+- Fluff rice with a fork and mix in tbsp butter until melted.
+- Divide rice between bowls. Top with moo shu pork mixture.
+- Garnish with scallion greens and sesame seeds.
 - Serve with extra lime wedges on the side.
 
 <!-- Links -->

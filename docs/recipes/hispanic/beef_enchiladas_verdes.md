@@ -22,20 +22,20 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 ## Estimated Calories & Sources
 
-| **Ingredient**               | **Quantity**      | **Calories**   | **Source**                                                                                                       |
-| ----------------------------- | ----------------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Organic Beef (85/15)          | 30 oz             | 2,295 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/ground-beef-85-lean-15-fat-cooked?portionid=51710) |
-| Mexican Cheese Blend          | 1.5 cups (~6 oz)  | 672 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/mexican-blend-cheese?portionid=330032)          |
-| Salsa Verde                   | 21 oz             | 252 kcal       | [Nutritionix](https://www.nutritionix.com/food/salsa-verde)                                                      |
-| Sour Cream                    | 9 tbsp (~4.5 oz)  | 270 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sour-cream?portionid=29597)                        |
-| Green Peppers                  | 3 medium          | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/peppers-green?portionid=34202)                  |
-| Scallions                     | 6 stalks          | 30 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/scallions?portionid=30702)                      |
-| Olive Oil                     | 1 tbsp            | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                      |
-| Southwest Spice Blend         | 3 tbsp            | ~24 kcal       | Estimated (varies slightly by brand)                                                                             |
-| Hot Sauce                     | 3 tsp             | ~15 kcal       | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                        |
-| Flour Tortillas (6 medium)    | 6 tortillas (~12 oz) | 720 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/flour-tortillas?portionid=33951)                   |
-| **Total (for 6 servings)**    |                   | **4,472 kcal** |                                                                                                                  |
-| **Per Serving**               |                   | **~745 kcal**  |                                                                                                                  |
+| **Ingredient**             | **Quantity**         | **Calories**   | **Source**                                                                                                       |
+| -------------------------- | -------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Organic Beef (85/15)       | 30 oz                | 2,295 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/ground-beef-85-lean-15-fat-cooked?portionid=51710) |
+| Mexican Cheese Blend       | 1.5 cups (~6 oz)     | 672 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/mexican-blend-cheese?portionid=330032)          |
+| Salsa Verde                | 21 oz                | 252 kcal       | [Nutritionix](https://www.nutritionix.com/food/salsa-verde)                                                      |
+| Sour Cream                 | 9 tbsp (~4.5 oz)     | 270 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sour-cream?portionid=29597)                        |
+| Green Peppers              | 3 medium             | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/peppers-green?portionid=34202)                  |
+| Scallions                  | 6 stalks             | 30 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/scallions?portionid=30702)                      |
+| Olive Oil                  | 1 tbsp               | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                      |
+| Southwest Spice Blend      | 3 tbsp               | ~24 kcal       | Estimated (varies slightly by brand)                                                                             |
+| Hot Sauce                  | 3 tsp                | ~15 kcal       | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                        |
+| Flour Tortillas (6 medium) | 6 tortillas (~12 oz) | 720 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/flour-tortillas?portionid=33951)                   |
+| **Total (for 6 servings)** |                      | **4,472 kcal** |                                                                                                                  |
+| **Per Serving**            |                      | **~745 kcal**  |                                                                                                                  |
 
 ## Ingredients
 
@@ -67,23 +67,27 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 ## Instructions
 
-1. **Prep the Vegetables:**  
+1. **Prep the Vegetables:**
+
    - Adjust rack to top position and heat broiler to high.
    - Wash and dry produce.
    - Halve, core, and thinly slice the green peppers crosswise into strips.
    - Thinly slice the scallions, separating whites and greens.
 
-2. **Make the Crema:**  
+2. **Make the Crema:**
+
    - In a small bowl, combine sour cream and hot sauce to taste.
    - Stir in water 1 teaspoon at a time until it reaches a drizzling consistency.
    - Season with salt and pepper.
 
-3. **Cook the Peppers:**  
+3. **Cook the Peppers:**
+
    - Heat a drizzle of olive oil in a large, preferably ovenproof, pan over medium-high heat.
    - Add green peppers; season with salt and pepper.
    - Cook, stirring occasionally, until softened and lightly charred, 5–7 minutes.
 
-4. **Cook the Beef:**  
+4. **Cook the Beef:**
+
    - Add another drizzle of oil to the same pan.
    - Add beef and cook, breaking it up with a spoon.
    - Season with Southwest Spice Blend, salt, and pepper.
@@ -91,17 +95,19 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
    - Stir in 3/4 of the salsa verde (you’ll use the rest later); taste and adjust seasoning as needed.
    - Turn off heat and transfer beef mixture to a medium bowl. Wipe out pan.
 
-5. **Assemble the Enchiladas:**  
+5. **Assemble the Enchiladas:**
+
    - Place a small amount of beef filling on one half of each tortilla.
    - Roll up the tortillas, starting with the filled sides, to form enchiladas.
    - Arrange enchiladas seam-side down in the pan used for cooking the beef (or in a 9x13" baking dish if needed).
    - Top with the remaining salsa verde and sprinkle evenly with the Mexican cheese blend.
 
-6. **Broil:**  
+6. **Broil:**
+
    - Broil enchiladas on the top rack until browned and bubbly, 3–4 minutes.
    - Watch carefully to avoid burning.
 
-7. **Finish and Serve:**  
+7. **Finish and Serve:**
    - Drizzle enchiladas with crema.
    - Garnish with scallion greens.
    - Serve hot and enjoy!
@@ -113,4 +119,5 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 - Customize your spice level by adding more or less hot sauce to the crema.
 
 <!-- Links -->
+
 [HelloFresh]: https://www.hellofresh.com/recipes/one-pan-beef-enchiladas-verdes-646be3ba27c3a0018f11a303

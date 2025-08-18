@@ -1,11 +1,11 @@
 {
-    "label": "Light & Healthy",
-    "position": 2,
-    "link": {
-      "type": "generated-index",
-      "description": "A collection of light and healthy recipes that are perfect for any occasion.",
-      "keywords": ["Light", "Healthy", "Salads"],
-      "image": "/img/light_and_healthy.jpg",
-      "title": "Light & Healthy"
-    }
+  "label": "Light & Healthy",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "A collection of light and healthy recipes that are perfect for any occasion.",
+    "keywords": ["Light", "Healthy", "Salads"],
+    "image": "/img/light_and_healthy.jpg",
+    "title": "Light & Healthy"
+  }
 }
