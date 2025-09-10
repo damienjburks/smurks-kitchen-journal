@@ -22,8 +22,6 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 | -------------------------- | ------------------- | -------------- | ----------------------------------------------------------------------------------------------------------- |
 | Chicken Breast (chopped)   | 30 oz               | 1,650 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-cooked)                     |
 | Basmati Rice (dry)         | 1.5 cups (~10.5 oz) | 1,500 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/white-rice-cooked?portionid=34344)         |
-| Parmesan Cheese            | 9 tbsp (~4.5 oz)    | 515 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese-%28grated%29?portionid=29214) |
-| Italian Cheese Blend       | 1.5 cups (~6 oz)    | 672 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/italian-blend-cheese?portionid=29777)      |
 | Olive Oil                  | 1 tbsp              | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/olive-oil)                                    |
 | Spinach/Mixed Greens       | 6 oz                | 60 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/spinach?portionid=34207)                      |
 | Tomatoes                   | 3 medium            | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/red-tomatoes)                                 |
@@ -32,8 +30,8 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 | Chicken Stock              | 49.5 oz (approx.)   | 60 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-broth)                             |
 | Hot Sauce                  | 3 tsp               | ~15 kcal       | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                   |
 | Butter                     | 1 tbsp              | 102 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/butter-unsalted)                              |
-| **Total (for 6 servings)** |                     | **4,836 kcal** |                                                                                                             |
-| **Per Serving**            |                     | **~806 kcal**  |                                                                                                             |
+| **Total (for 6 servings)** |                     | **3,649 kcal** |                                                                                                             |
+| **Per Serving**            |                     | **~608 kcal**  |                                                                                                             |
 
 ## Ingredients
 
@@ -52,11 +50,7 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 - Olive Oil
 - Salt & Pepper
 - 1 large oven-ready baking tray
-
-### Dairy
-
-- 9 tbsp Parmesan Cheese
-- 1.5 cups Italian Cheese Blend
+- Buttermilk Ranch
 
 ### Protein
 
