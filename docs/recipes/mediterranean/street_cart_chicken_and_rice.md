@@ -1,7 +1,16 @@
 ---
 title: Street Cart Chicken & Rice (Prep and Bake)
 description: A flavorful and comforting oven-baked recipe inspired by NYC halal carts, featuring tender chicken, fragrant basmati rice, and fresh sides.
-tags: [Mediterranean, Chicken, Rice, Halal, Oven-Baked, Weeknight Meals, Comfort Food]
+tags:
+  [
+    Mediterranean,
+    Chicken,
+    Rice,
+    Halal,
+    Oven-Baked,
+    Weeknight Meals,
+    Comfort Food,
+  ]
 ---
 
 ![Cover](/img/mediterranean/street_cart_chicken_and_rice/cover.png)
@@ -18,20 +27,20 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity**        | **Calories**   | **Source**                                                                                                  |
-| -------------------------- | ------------------- | -------------- | ----------------------------------------------------------------------------------------------------------- |
-| Chicken Breast (chopped)   | 30 oz               | 1,650 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-cooked)                     |
-| Basmati Rice (dry)         | 1.5 cups (~10.5 oz) | 1,500 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/white-rice-cooked?portionid=34344)         |
-| Olive Oil                  | 1 tbsp              | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/olive-oil)                                    |
-| Spinach/Mixed Greens       | 6 oz                | 60 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/spinach?portionid=34207)                      |
-| Tomatoes                   | 3 medium            | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/red-tomatoes)                                 |
-| Shawarma Spice Blend       | 3 tbsp              | ~24 kcal       | [Estimated]                                                                                                 |
-| Garlic Powder              | 3 tsp               | 24 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic-powder)                                |
-| Chicken Stock              | 49.5 oz (approx.)   | 60 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-broth)                             |
-| Hot Sauce                  | 3 tsp               | ~15 kcal       | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                   |
-| Butter                     | 1 tbsp              | 102 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/butter-unsalted)                              |
-| **Total (for 6 servings)** |                     | **3,649 kcal** |                                                                                                             |
-| **Per Serving**            |                     | **~608 kcal**  |                                                                                                             |
+| **Ingredient**             | **Quantity**        | **Calories**   | **Source**                                                                                          |
+| -------------------------- | ------------------- | -------------- | --------------------------------------------------------------------------------------------------- |
+| Chicken Breast (chopped)   | 30 oz               | 1,650 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-cooked)             |
+| Basmati Rice (dry)         | 1.5 cups (~10.5 oz) | 1,500 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/white-rice-cooked?portionid=34344) |
+| Olive Oil                  | 1 tbsp              | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/olive-oil)                            |
+| Spinach/Mixed Greens       | 6 oz                | 60 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/spinach?portionid=34207)              |
+| Tomatoes                   | 3 medium            | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/red-tomatoes)                         |
+| Shawarma Spice Blend       | 3 tbsp              | ~24 kcal       | [Estimated]                                                                                         |
+| Garlic Powder              | 3 tsp               | 24 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic-powder)                        |
+| Chicken Stock              | 49.5 oz (approx.)   | 60 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-broth)                     |
+| Hot Sauce                  | 3 tsp               | ~15 kcal       | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                           |
+| Butter                     | 1 tbsp              | 102 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/butter-unsalted)                      |
+| **Total (for 6 servings)** |                     | **3,649 kcal** |                                                                                                     |
+| **Per Serving**            |                     | **~608 kcal**  |                                                                                                     |
 
 ## Ingredients
 
