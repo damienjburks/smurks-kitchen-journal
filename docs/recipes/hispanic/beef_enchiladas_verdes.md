@@ -29,7 +29,6 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 | Salsa Verde                | 21 oz                | 252 kcal       | [Nutritionix](https://www.nutritionix.com/food/salsa-verde)                                                      |
 | Sour Cream                 | 9 tbsp (~4.5 oz)     | 270 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sour-cream?portionid=29597)                        |
 | Green Peppers              | 3 medium             | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/peppers-green?portionid=34202)                  |
-| Scallions                  | 6 stalks             | 30 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/scallions?portionid=30702)                      |
 | Olive Oil                  | 1 tbsp               | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                      |
 | Southwest Spice Blend      | 3 tbsp               | ~24 kcal       | Estimated (varies slightly by brand)                                                                             |
 | Hot Sauce                  | 3 tsp                | ~15 kcal       | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                        |
@@ -42,7 +41,6 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 ### Produce
 
 - 3 Long Green Peppers
-- 6 Scallions
 
 ### Pantry
 
@@ -63,7 +61,7 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 ### Bread
 
-- 6 medium Flour Tortillas
+- 18 medium Flour Tortillas
 
 ## Instructions
 
@@ -72,7 +70,6 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
    - Adjust rack to top position and heat broiler to high.
    - Wash and dry produce.
    - Halve, core, and thinly slice the green peppers crosswise into strips.
-   - Thinly slice the scallions, separating whites and greens.
 
 2. **Make the Crema:**
 
@@ -88,11 +85,11 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 4. **Cook the Beef:**
 
-   - Add another drizzle of oil to the same pan.
+   - Add another drizzle of oil to the same pan with peppers inside of it.
    - Add beef and cook, breaking it up with a spoon.
    - Season with Southwest Spice Blend, salt, and pepper.
-   - Cook until browned and cooked through, 4–6 minutes.
-   - Stir in 3/4 of the salsa verde (you’ll use the rest later); taste and adjust seasoning as needed.
+   - Cook until browned and cooked through.
+   - Stir in 1/4 of the salsa verde (you’ll use the rest later); taste and adjust seasoning as needed.
    - Turn off heat and transfer beef mixture to a medium bowl. Wipe out pan.
 
 5. **Assemble the Enchiladas:**
@@ -109,7 +106,6 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 7. **Finish and Serve:**
    - Drizzle enchiladas with crema.
-   - Garnish with scallion greens.
    - Serve hot and enjoy!
 
 ### 💡 Notes
