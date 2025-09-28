@@ -16,9 +16,9 @@ tags:
 
 ## Overview
 
-When life gives you lemons... you could make lemonade. But wouldn’t you rather whip up a delectable homemade pasta limone?
+When life gives you lemons... you could make lemonade. But wouldn’t you rather whip up a delectable homemade pasta al limone?
 
-This rich, tangy, oh-so-easy sauce comes together in a flash with lemon zest and juice, Parmesan, butter, and cream—plus toasted garlic and sautéed zucchini. It’s all tossed with penne pasta and golden seared chicken breast strips, then finished with herbs and extra Parm. A little squeeze of lemon on top adds the perfect finishing touch.
+This rich, tangy, oh-so-easy sauce comes together in a flash with lemon zest and juice, Parmesan, butter, and cream—plus toasted garlic and sautéed zucchini. Everything gets tossed with penne pasta and golden-seared chicken breast strips, then finished with herbs and extra Parm. A squeeze of lemon on top adds the perfect finishing touch.
 
 Inspired by [HelloFresh], this dish is a zesty comfort classic.
 
@@ -28,89 +28,99 @@ Inspired by [HelloFresh], this dish is a zesty comfort classic.
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity**     | **Calories**   | **Source**                                                                                                          |
-| -------------------------- | ---------------- | -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Chicken Breast (cooked)    | 30 oz            | 1,470 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-skinless?portionid=4751536)         |
-| Penne Pasta (dry)          | 18 oz            | 2,262 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/penne-cooked?portionamount=6.000&portionid=320987) |
-| Cream Sauce Base (12 oz)   | 12 oz            | ~600 kcal      | [Estimated] (based on typical cream sauce blends with cheese and milk fat)                                          |
-| Parmesan Cheese            | ¾ cup (~2.25 oz) | 258 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese-%28grated%29?portionid=29214)         |
-| Olive Oil                  | 2 tbsp           | 239 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                         |
-| Zucchini                   | 3 medium         | 99 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/zucchini)                                             |
-| Garlic                     | 3 cloves         | 13 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic?portionid=34170)                               |
-| Lemons                     | 3 whole          | 51 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/lemons)                                               |
-| Chicken Stock Concentrate  | 5.5 oz           | ~30 kcal       | Estimated                                                                                                           |
-| **Total (for 6 servings)** |                  | **5,022 kcal** |                                                                                                                     |
-| **Per Serving**            |                  | **~837 kcal**  |                                                                                                                     |
+| **Ingredient**          | **Quantity**        | **Calories** | **Source**                                                                                                  |
+| ----------------------- | ------------------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
+| Chicken Breast (cooked) | 30 oz (850 g)       | ~1,470 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-skinless?portionid=4751536) |
+| Penne Pasta (dry)       | 18 oz (510 g)       | ~1,890 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/penne-pasta-dry)                              |
+| Cream Sauce Base        | 12 oz (340 g)       | ~960 kcal    | Estimated (based on butter, cream, and flour)                                                               |
+| Parmesan Cheese         | ¾ cup (3 oz / 85 g) | ~330 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese)                              |
+| Zucchini                | 3 medium (525 g)    | ~90 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/zucchini)                                     |
+| Garlic                  | 3 cloves (9 g)      | ~13 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic)                                       |
+| Lemons                  | 2 medium (200 g)    | ~60 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/lemons-raw)                                   |
+| Olive Oil               | ~3 tbsp (42 g)      | ~360 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                 |
+| Butter                  | ~2.5 tbsp (35 g)    | ~250 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/butter-salted)                                |
+
+**Total (approx): 5,423 kcal**  
+**Per serving (6 servings): ~904 kcal**
 
 ## Ingredients
 
 ### Produce
 
-- 3 Cloves Garlic (sliced)
-- 3 Zucchinis (quartered lengthwise, sliced)
-- 3 Lemons (zested and quartered)
-- Optional: Chives and Parsley (minced)
+- 3 cloves garlic (thinly sliced)
+- 3 zucchinis (quartered lengthwise, sliced)
+- 2 lemons (zested and quartered)
 
 ### Pantry
 
-- 18 oz Penne Pasta
-- 3 units Green Herb Blend
-- Olive Oil
-- Salt & Pepper
+- 18 oz penne pasta
+- 3 units green herb blend (or fresh basil, parsley, etc.)
+- Olive oil
+- Salt & pepper
 
 ### Dairy
 
-- 12 oz Cream Sauce Base
-- ¾ cup Parmesan Cheese (divided)
-- 2–3 tbsp Butter (to finish sauce)
+- 12 oz cream sauce base
+- ¾ cup Parmesan cheese (divided)
+- 2–3 tbsp butter (to finish sauce)
 
 ### Protein
 
-- 30 oz Chicken Breast Strips
+- 30 oz chicken breast strips
 
 ## Instructions
 
-### 1. **Prep Ingredients**
+### Step 1: Prep Ingredients
 
-- Bring a large pot of salted water to a boil.
-- Wash and dry all produce.
-- Peel and thinly slice garlic.
-- Trim, quarter, and slice zucchini into ½-inch pieces.
-- Zest and quarter lemons.
-- Mince herbs if using.
+1. Bring a large pot of salted water to a boil.
+2. Wash and dry all produce.
+3. Peel and thinly slice garlic.
+4. Trim, quarter, and slice zucchini into ½-inch pieces.
+5. Zest and quarter lemons.
+6. Mince herbs, if using.
 
-### 2. **Cook Pasta**
+### Step 2: Cook Pasta
 
-- Add penne to boiling water and cook until al dente, 9–11 minutes.
-- Reserve 1 cup of pasta water, then drain and set aside.
+1. Add penne to boiling water.
+2. Cook until al dente, 9–11 minutes.
+3. Reserve 1 cup pasta water.
+4. Drain pasta and set aside.
 
-### 3. **Toast Garlic**
+### Step 3: Toast Garlic
 
-- In a large pan, heat a drizzle of olive oil over medium heat.
-- Add garlic and cook, stirring, for ~1 minute until golden.
-- Transfer to a paper towel–lined plate using a slotted spoon. Wipe out the pan.
+1. In a large pan, heat a drizzle of olive oil over medium heat.
+2. Add garlic and cook, stirring, for ~1 minute until golden and fragrant.
+3. Transfer to a paper towel–lined plate using a slotted spoon.
+4. Wipe out the pan.
 
-### 4. **Cook Zucchini & Chicken**
+### Step 4: Cook Zucchini & Chicken
 
-- In the same pan, add a drizzle of olive oil and cook zucchini over medium-high heat for 5–6 minutes until golden and tender.
-- Season with salt and pepper, then transfer to a plate.
-- Pat chicken dry, season with salt and pepper, then add to the pan in a single layer.
-- Cook 4–6 minutes, stirring occasionally, until browned and fully cooked.
+1. In the same pan, heat a drizzle of olive oil over medium-high heat.
+2. Add zucchini and cook for 5–6 minutes until golden and tender. Season with salt and pepper.
+3. Transfer zucchini to a plate.
+4. Pat chicken dry, season with salt and pepper, and add to the pan.
+5. Cook 4–6 minutes, stirring occasionally, until browned and fully cooked.
 
-### 5. **Make the Sauce**
+### Step 5: Make the Sauce
 
-- Reduce heat to medium.
-- Add cream sauce base, ¼–½ cup reserved pasta water, and a big squeeze of lemon juice.
-- Stir and simmer for 2–3 minutes until thickened.
-- Add more water as needed for a smooth sauce.
+1. Reduce heat to medium.
+2. Add cream sauce base, ¼–½ cup reserved pasta water, and a big squeeze of lemon juice.
+3. Stir and simmer for 2–3 minutes until slightly thickened.
+4. Add more pasta water as needed to reach a smooth consistency.
 
-### 6. **Finish & Serve**
+### Step 6: Finish & Serve
 
-- Add drained pasta, zucchini, toasted garlic, half the Parmesan, half the herbs, half the lemon zest, and 2 tbsp butter to the pan.
-- Toss until everything is evenly coated.
-- Season with salt, pepper, and additional lemon juice if desired.
-- Divide into bowls and top with remaining Parmesan, herbs, and lemon wedges on the side.
+1. Add drained pasta, zucchini, toasted garlic, half the Parmesan, half the herbs, half the lemon zest, and 2 tbsp butter to the sauce.
+2. Toss until everything is well combined and coated.
+3. Season with salt, pepper, and more lemon juice if desired.
+4. Divide into bowls and top with remaining Parmesan, herbs, and lemon wedges on the side.
 
-> 🧈 **Tip:** Add pasta water gradually if the sauce thickens too much.
+> 🧈 **Tip:** Add reserved pasta water gradually if the sauce thickens too much.
+
+## Notes
+
+- Chicken is fully cooked when internal temp reaches 165°F.
+- You can substitute cream sauce base with a mix of heavy cream and butter.
+- Add crushed red pepper for a spicy twist.
 
 [HelloFresh]: https://www.hellofresh.com/recipes/chicken-penne-limone-62430ce90046911f63385b45

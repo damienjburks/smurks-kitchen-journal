@@ -10,13 +10,13 @@ tags:
   - HelloFresh Inspired
 ---
 
-![Blackened Chicken Penne](/img/italian_eats/blackened_chicken_penne/cover.png)
+![Cover](/img/italian_eats/blackened_chicken_penne/cover.png)
 
 ## Overview
 
-This pasta may break the rules, but it does so deliciously: Instead of going the traditional Italian route, we mix things up with bold Southwestern flavors. Chicken breast strips are seasoned with blackening spices and tossed in the pan until perfectly smoky and savory. Poblano pepper and diced tomato add texture and flair, while a creamy Monterey Jack cheese sauce brings supreme richness to the penne.
+This pasta may break the rules, but it does so deliciously. Instead of taking the traditional Italian route, we’re mixing things up with bold Southwestern flair. Strips of juicy chicken breast are coated in smoky blackening spices and pan-seared to perfection. Poblano peppers and Roma tomatoes add freshness and texture, while a luscious Monterey Jack and cream cheese sauce wraps around every bite of penne like a cozy blanket. It’s a fun and flavorful twist on creamy pasta night that’s sure to be a crowd-pleaser.
 
-This meal is inspired by [HelloFresh], which we originally used to make this in the past.
+This recipe is inspired by [HelloFresh], which we originally used to make this at home.
 
 > - **Serves:** 6
 > - **Prep Time:** ~10 minutes
@@ -24,96 +24,97 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity**   | **Calories**   | **Source**                                                                                                          |
-| -------------------------- | -------------- | -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Chicken Breast (cooked)    | 30 oz          | 1,470 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-skinless?portionid=4751536)         |
-| Penne Pasta (dry)          | 18 oz          | 2,262 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/penne-cooked?portionamount=6.000&portionid=320987) |
-| Cream Cheese               | 4 tbsp (~2 oz) | 198 kcal       | [Nutritionix](https://www.nutritionix.com/food/cream-cheese)                                                        |
-| Parmesan Cheese            | 2.25 oz        | 258 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese-%28grated%29?portionid=29214)         |
-| Olive Oil                  | 2 tbsp         | 239 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                         |
-| Long Green Peppers         | 3 medium       | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/peppers-green?portionid=34202)                     |
-| Roma Tomatoes              | 3 medium       | 66 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/tomatoes-roma?portionid=30712)                     |
-| Garlic                     | 3 cloves       | 13 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic?portionid=34170)                               |
-| Scallions                  | 6 stalks       | 30 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/scallions?portionid=30702)                         |
-| Hot Sauce                  | 3 tsp          | 15 kcal        | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                           |
-| Chicken Stock Concentrate  | 5.5 oz         | ~30 kcal       | Estimated                                                                                                           |
-| **Total (for 6 servings)** |                | **4,656 kcal** |                                                                                                                     |
-| **Per Serving**            |                | **~776 kcal**  |                                                                                                                     |
+| **Ingredient**            | **Quantity**           | **Calories** | **Source**                                                                                                  |
+| ------------------------- | ---------------------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
+| Chicken Breast (cooked)   | 30 oz (850 g)          | ~1,470 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-breast-skinless?portionid=4751536) |
+| Penne Pasta (dry)         | 18 oz (510 g)          | ~1,890 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/penne-pasta-dry)                              |
+| Cream Cheese              | 12 tbsp (6 oz / 170 g) | ~582 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/cream-cheese)                                 |
+| Monterey Jack Cheese      | ¾ cup (3 oz / 85 g)    | ~285 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/monterey-jack-cheese)                         |
+| Olive Oil                 | ~3 tbsp (42 g)         | ~360 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                 |
+| Tomatoes                  | 3 Roma (225 g)         | ~50 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/tomatoes-roma)                                |
+| Poblano Peppers           | 3 peppers (400 g)      | ~80 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/peppers-poblano)                              |
+| Onion                     | ½ large (100 g)        | ~40 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/onions)                                       |
+| Chicken Stock Concentrate | 3 packets (48 g)       | ~60 kcal     | Estimated (varies by brand)                                                                                 |
+| Hot Sauce                 | 3 tsp (15 g)           | ~15 kcal     | Estimated (varies by brand)                                                                                 |
+
+**Total (approx): 4,832 kcal**  
+**Per serving (6 servings): ~805 kcal**
 
 ## Ingredients
 
 ### Produce
 
-- 6 Scallions
-- 3 Cloves of Garlic
-- 3 Roma Tomatoes
-- 3 Long Green Peppers
+- 3 cloves garlic (thinly sliced)
+- 3 Roma tomatoes (finely chopped)
+- 3 poblano peppers (diced into ½-inch pieces)
+- 1 large yellow onion (finely diced)
 
 ### Pantry
 
-- 3 tbsp Blackening Spice (Seasoning)
-- 3 tsp Hot Sauce
-- 18 oz Penne Pasta
-- 5.5 oz Chicken Stock (or 1 concentrate)
-- Olive Oil
-- Salt & Pepper
+- 3 tbsp blackening spice
+- 3 tsp hot sauce (plus more for garnish)
+- 18 oz penne pasta
+- 3 packets chicken stock concentrate (or 16.5 oz liquid)
+- Olive oil
+- Salt & pepper
 
 ### Dairy
 
-- 4 tbsp Cream Cheese
-- 2.25 oz Parmesan Cheese
+- 12 tbsp cream cheese
+- ¾ cup Monterey Jack cheese
 
 ### Protein
 
-- 30 oz Chopped Chicken Breast
+- 30 oz chicken breast (chopped into bite-sized pieces)
 
 ## Instructions
 
-1. **Prep the Ingredients:**
+### Step 1: Prep
 
-   - Bring a large pot of salted water to a boil.
-   - Wash and dry produce.
-   - Core, deseed, and dice green peppers into ½-inch pieces.
-   - Halve, peel, and finely dice half an onion (if using).
-   - Peel and thinly slice garlic.
-   - Finely chop the Roma tomatoes.
+1. Bring a large pot of salted water to a boil.
+2. Wash and dry all produce.
+3. Core, deseed, and dice poblano peppers.
+4. Halve, peel, and finely dice onion.
+5. Peel and thinly slice garlic.
+6. Finely chop Roma tomatoes.
 
-2. **Season the Chicken:**
+### Step 2: Season Chicken
 
-   - In a large bowl, combine a large drizzle of olive oil, Blackening Spice, and a few big pinches of salt.
-   - Pat chicken dry with paper towels, then add to the bowl and turn to coat.
+1. In a large bowl, mix a generous drizzle of olive oil with blackening spice and a few big pinches of salt.
+2. Pat chicken dry with paper towels, add to the bowl, and toss to coat.
 
-3. **Cook the Pasta:**
+### Step 3: Cook Pasta
 
-   - Once water is boiling, add penne and cook, stirring occasionally, until al dente (9–11 minutes).
-   - Reserve ½ cup pasta cooking water, then drain and set aside.
+1. Add penne to the boiling water and cook until al dente, 9–11 minutes.
+2. Reserve 1 cup pasta water.
+3. Drain pasta and set aside.
 
-4. **Cook the Vegetables and Chicken:**
+### Step 4: Cook Chicken & Veggies
 
-   - Heat a drizzle of olive oil in a large pan over medium-high heat.
-   - Add diced green peppers and a pinch of salt; cook undisturbed until lightly charred, about 3–4 minutes.
-   - Add chicken and diced onion; cook, stirring occasionally, until browned and cooked through, 4–6 minutes.
-   - Stir in garlic and cook until fragrant, 1–2 minutes.
-   - Stir in half the tomatoes and a pinch of salt. Reduce heat to medium-low.
+1. Heat a drizzle of olive oil in a large pan over medium-high heat.
+2. Add diced poblanos and a pinch of salt; cook undisturbed until charred, 3–4 minutes.
+3. Add chicken and diced onion; cook until chicken is browned and cooked through, 4–6 minutes.
+4. Stir in garlic; cook 1–2 minutes until fragrant.
+5. Add half the tomatoes and a pinch of salt. Reduce heat to medium-low.
 
-5. **Make the Sauce:**
+### Step 5: Make Sauce & Combine
 
-   - Stir cream cheese and ⅓ cup reserved pasta cooking water into the pan with the chicken and veggie mixture.
-   - Add the drained penne; stir until thoroughly combined, about 1–2 minutes.
-   - Turn off heat.
-   - Add Parmesan cheese, chicken stock concentrate, 2 tbsp butter, and as much hot sauce as you like; stir until butter melts.
-   - TIP: If needed, stir in more reserved pasta water a splash at a time until the pasta is coated in a creamy sauce.
+1. Stir in cream cheese and 1 cup reserved pasta water.
+2. Add cooked penne and stir until well combined, 1–2 minutes.
+3. Turn off heat.
+4. Stir in Monterey Jack cheese, chicken stock concentrate, 2 tbsp butter, and hot sauce to taste.
+5. Add more pasta water as needed until sauce is creamy and coats pasta.
 
-6. **Finish and Serve:**
-   - Divide pasta between bowls or plates.
-   - Garnish with the remaining tomatoes and an extra drizzle of hot sauce if desired.
-   - Serve immediately.
+### Step 6: Finish & Serve
 
-### 💡 Notes
+1. Divide pasta between bowls or plates.
+2. Garnish with remaining tomatoes and a drizzle of hot sauce, if desired.
+3. Serve immediately and enjoy!
 
-- For extra flavor, squeeze a little lime over the finished dish if you have some on hand.
-- Monterey Jack cheese can be substituted with mozzarella for a different creamy texture.
+## Notes
 
-<!-- Links -->
+- A squeeze of fresh lime adds brightness if you have one on hand.
+- For more heat, use pepper jack cheese or a dash of cayenne in the seasoning.
+- Pasta water is liquid gold! Don’t skip reserving it for a silky, clingy sauce.
 
 [HelloFresh]: https://www.hellofresh.com/recipes/blackened-chicken-penne-61b0d03ab3a03377ee6b1b04

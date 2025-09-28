@@ -1,4 +1,5 @@
 ---
+id: turkey-greek-salad-lettuce-wraps
 title: Turkey & Greek Salad Lettuce Wraps
 description: A fresh and flavorful twist on lettuce wraps — seasoned ground turkey with Turkish spices and garlic, topped with a crisp cucumber-tomato salad, red onion, feta, and Greek vinaigrette.
 tags:
@@ -22,41 +23,39 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity**      | **Calories**    | **Source**                                                                                                           |
-| -------------------------- | ----------------- | --------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Ground Turkey (93% lean)   | 24 oz             | 1,080 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/turkey-ground-93-lean-7-fat-cooked?portionid=52244) |
-| Greek Vinaigrette          | 4.5 oz (~9 tbsp)  | ~540 kcal       | [Nutritionix](https://www.nutritionix.com/food/greek-vinaigrette)                                                    |
-| Turkish Spice Blend        | 3 tbsp (~18 g)    | ~60 kcal        | Estimated (varies slightly by brand)                                                                                 |
-| Soy Sauce                  | 2 tbsp (~1 oz)    | 20 kcal         | [Nutritionix](https://www.nutritionix.com/food/soy-sauce)                                                            |
-| Feta Cheese                | 1.5 cups (~6 oz)  | 450 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/feta-cheese?portionid=29436)                           |
-| Persian Cucumbers          | 3 (~12 oz)        | 50 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/cucumber?portionid=34219)                           |
-| Roma Tomatoes              | 3 medium (~11 oz) | 60 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/tomatoes-roma?portionid=34609)                      |
-| Red Onions                 | 3 small (~12 oz)  | 120 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/onions-red?portionid=34155)                         |
-| Garlic                     | 6 cloves (~1 oz)  | 5 kcal          | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/garlic?portionid=34102)                             |
-| Baby Lettuce               | 3 stalks (~9 oz)  | 45 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/lettuce?portionid=34195)                            |
-| Olive Oil (for cooking)    | 1 tbsp            | 119 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                          |
-| Salt & Pepper              | To taste          | 0 kcal          | —                                                                                                                    |
-| **Total (for 6 servings)** |                   | **~2,549 kcal** |                                                                                                                      |
-| **Per Serving**            |                   | **~425 kcal**   |                                                                                                                      |
+| **Ingredient**           | **Quantity**            | **Calories** | **Source**                                                                                                           |
+| ------------------------ | ----------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Ground Turkey (93% lean) | 24 oz (680 g)           | ~1,080 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/turkey-ground-93-lean-7-fat-cooked?portionid=52244) |
+| Persian Cucumbers        | 3 medium (300 g)        | ~45 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/cucumber)                                              |
+| Roma Tomatoes            | 3 medium (375 g)        | ~65 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/tomatoes-roma)                                         |
+| Red Onions               | 3 medium (450 g)        | ~180 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/onions)                                                |
+| Garlic                   | 6 cloves (18 g)         | ~27 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic)                                                |
+| Baby Lettuce             | 3 stalks (225 g)        | ~35 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/lettuce)                                               |
+| Feta Cheese              | 1.5 cups (6 oz / 170 g) | ~450 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/feta-cheese)                                           |
+| Greek Vinaigrette        | 4.5 oz (128 g)          | ~360 kcal    | Estimated (brand-dependent)                                                                                          |
+| Olive Oil                | ~1.5 tbsp (21 g)        | ~180 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil)                                          |
+| Soy Sauce                | 3 tbsp (45 g)           | ~30 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/soy-sauce)                                             |
+
+**Total (approx): 2,452 kcal**  
+**Per serving (6 servings): ~409 kcal**
 
 ## Ingredients
 
 ### Produce
 
-- 3 Persian cucumbers
-- 3 Roma tomatoes
-- 3 red onions
-- 6 cloves garlic
-- 3 stalks baby lettuce
+- 3 Persian cucumbers (quartered lengthwise, sliced into ½-inch pieces)
+- 3 Roma tomatoes (diced into ½-inch pieces)
+- 3 red onions (halved and finely chopped)
+- 6 cloves garlic (minced)
+- 3 stalks baby lettuce (leaves separated)
 
 ### Pantry
 
 - 4.5 oz Greek vinaigrette
 - 3 tbsp Turkish spice blend
-- 2 tbsp soy sauce
-- Cooking oil / olive oil
-- Salt
-- Pepper
+- 3 tbsp soy sauce
+- Olive oil
+- Salt & pepper
 
 ### Dairy
 
@@ -68,41 +67,40 @@ This meal is inspired by [HelloFresh], which we originally used to make this in 
 
 ## Instructions
 
-1. **Prep the Produce:**
+### Step 1: Prep the Produce
 
-   - Wash and dry produce.
-   - Trim and quarter cucumbers lengthwise; slice crosswise into ½-inch pieces.
-   - Dice tomatoes into ½-inch pieces.
-   - Halve, peel, and finely chop onions.
-   - Mince or grate garlic.
-   - Trim and discard root end from lettuce; separate leaves.
+1. Wash and dry produce.
+2. Trim and quarter cucumbers lengthwise; slice into ½-inch pieces.
+3. Dice tomatoes.
+4. Halve, peel, and finely chop onions.
+5. Mince or grate garlic.
+6. Trim root end from lettuce and separate leaves.
 
-2. **Make the Salad:**
+### Step 2: Make the Salad
 
-   - In a medium bowl, combine cucumber, tomato, 2 tbsp onion (4 tbsp for 4 servings; reserve the rest), and vinaigrette.
-   - Toss to coat and set aside.
+1. In a medium bowl, combine cucumber, tomato, 6 tbsp onion (reserve the rest), and vinaigrette.
+2. Toss to coat and set aside.
 
-3. **Cook the Turkey:**
+### Step 3: Cook the Turkey
 
-   - Heat a drizzle of oil in a large pan over medium-high heat.
-   - Add remaining onion and a pinch of salt; cook until slightly softened, 2–3 minutes.
-   - Add turkey, Turkish spice, garlic, and half the soy sauce (all for 4 servings).
-   - Cook, breaking meat into pieces, until turkey is cooked through, 4–6 minutes.
-   - Season with salt and pepper to taste.
-   - Tip: Stir in a splash of water near the end of cooking to keep turkey saucy.
+1. Heat a drizzle of olive oil in a large pan over medium-high heat.
+2. Add remaining onion and a pinch of salt; cook 2–3 minutes until softened.
+3. Add turkey, Turkish spice blend, garlic, and soy sauce.
+4. Cook, breaking up meat, until turkey is cooked through, 4–6 minutes.
+5. Season with salt and pepper.
+6. **Tip:** Add a splash of water near the end for saucier filling.
 
-4. **Assemble the Wraps:**
-   - Divide lettuce leaves between plates.
-   - Fill each with turkey mixture and cucumber-tomato salad.
-   - Spoon any remaining vinaigrette over top.
-   - Garnish with feta and serve immediately.
+### Step 4: Assemble the Wraps
 
-### 💡 Notes
+1. Divide lettuce leaves among plates.
+2. Fill each with turkey mixture and cucumber-tomato salad.
+3. Spoon any remaining vinaigrette over top.
+4. Garnish with feta and serve immediately.
 
-- For a tangier flavor, add a squeeze of lemon juice to the salad before serving.
-- Swap turkey for chicken or beef if you prefer.
-- Great for meal prep—store filling and salad separately, then assemble when ready to eat.
+## Notes
 
-<!-- Links -->
+- Add lemon juice to the salad for extra brightness.
+- Swap turkey for chicken or beef if preferred.
+- For meal prep: store filling and salad separately, assemble when ready to eat.
 
 [HelloFresh]: https://www.hellofresh.com/recipes/turkey-greek-salad-lettuce-wraps-627169e3e23ce696ec03be5a

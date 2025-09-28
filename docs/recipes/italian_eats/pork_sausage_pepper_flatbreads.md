@@ -1,4 +1,5 @@
 ---
+id: pork-sausage-pepper-flatbreads
 title: Pork Sausage & Pepper Flatbreads
 description: Crispy flatbreads layered with a rich tomato sauce, roasted peppers and onions, savory Italian sausage, and a melty blend of mozzarella and Monterey Jack cheese.
 tags:
@@ -22,29 +23,27 @@ Inspired by [HelloFresh], which we originally used to make this in the past.
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity**      | **Calories**    | **Source**                                                                                             |
-| -------------------------- | ----------------- | --------------- | ------------------------------------------------------------------------------------------------------ |
-| Italian Chicken Sausage    | 27 oz             | ~1,470 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-sausage?portionid=32172)      |
-| Flatbreads                 | 6                 | ~1,200 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/flatbread?portionid=325155)           |
-| Green Peppers              | 3 medium (~12 oz) | ~75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/peppers-green?portionid=34202)        |
-| Yellow Onions              | 3 medium (~12 oz) | ~132 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/onions?portionid=34149)               |
-| Tomato Paste               | 4.5 oz            | ~110 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/tomato-paste?portionid=34257)         |
-| Mozzarella Cheese          | 1.5 cups (~6 oz)  | ~480 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/mozzarella?portionid=32558)           |
-| Monterey Jack Cheese       | 3/4 cup (~3 oz)   | ~340 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/cheese-monterey-jack?portionid=31003) |
-| Butter                     | 6 tbsp (~3 oz)    | ~600 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/butter?portionid=29317)               |
-| Olive Oil                  | 9 tsp (~3 tbsp)   | ~360 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)            |
-| Sugar                      | 3 tsp             | 48 kcal         | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/sugar?portionid=33918)                |
-| Italian Seasoning          | 3 tbsp            | ~30 kcal        | Estimated                                                                                              |
-| Salt & Pepper              | To taste          | 0 kcal          | —                                                                                                      |
-| **Total (for 6 servings)** |                   | **~4,945 kcal** |                                                                                                        |
-| **Per Serving**            |                   | **~824 kcal**   |                                                                                                        |
+| **Ingredient**          | **Quantity**             | **Calories** | **Source**                                                                                        |
+| ----------------------- | ------------------------ | ------------ | ------------------------------------------------------------------------------------------------- |
+| Italian Chicken Sausage | 27 oz (765 g)            | ~1,470 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/chicken-sausage?portionid=32172) |
+| Flatbreads              | 6 pieces (14 oz / 400 g) | ~1,120 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/flatbread)                          |
+| Yellow Onion            | 3 medium (450 g)         | ~180 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/onions)                             |
+| Long Green Peppers      | 3 medium (400 g)         | ~80 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/peppers-green)                      |
+| Tomato Paste            | 4.5 oz (128 g)           | ~135 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/tomato-paste)                       |
+| Butter                  | 6 tbsp (84 g)            | ~600 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/butter-salted)                      |
+| Olive Oil               | 3 tbsp (42 g)            | ~360 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil)                       |
+| Mozzarella Cheese       | 1.5 cups (6 oz / 170 g)  | ~480 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/mozzarella-cheese)               |
+| Monterey Jack Cheese    | ¾ cup (3 oz / 85 g)      | ~285 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/monterey-jack-cheese)               |
+
+**Total (approx): 4,710 kcal**  
+**Per serving (6 servings): ~785 kcal**
 
 ## Ingredients
 
 ### Produce
 
-- 3 medium yellow onions
-- 3 medium green peppers
+- 3 yellow onions (cut into ½-inch wedges)
+- 3 long green peppers (sliced into ½-inch rings)
 
 ### Pantry
 
@@ -52,13 +51,12 @@ Inspired by [HelloFresh], which we originally used to make this in the past.
 - 4.5 oz tomato paste
 - 6 tbsp butter
 - 9 tsp olive oil
-- 3 tsp sugar
 - Salt & pepper
 
 ### Dairy
 
 - 1.5 cups mozzarella cheese
-- 3/4 cup Monterey Jack cheese
+- ¾ cup Monterey Jack cheese
 
 ### Protein
 
@@ -66,36 +64,50 @@ Inspired by [HelloFresh], which we originally used to make this in the past.
 
 ## Instructions
 
-1. **Prep & roast veggies**
+### Step 1: Prep & Roast Veggies
 
-   - Adjust oven rack to top position (top and middle for 4 servings). Preheat oven to 450°F.
-   - Wash and dry produce. Halve, peel, and cut onions into ½-inch wedges. Core, deseed, and slice peppers crosswise into ½-inch rings.
+1. Adjust oven rack to top position. Preheat oven to 450°F.
+2. Wash and dry produce.
+3. Halve, peel, and cut onions into ½-inch wedges.
+4. Core, deseed, and slice peppers into ½-inch rings.
 
-2. **Toast flatbreads**
+### Step 2: Toast Flatbreads
 
-   - Place flatbreads on a lightly oiled baking sheet. Toast on the top rack until golden, 5–7 minutes. (For 4 servings, divide between 2 sheets and toast on top and middle racks.)
+1. Place flatbreads on a lightly oiled baking sheet.
+2. Toast on the top rack for 5–7 minutes, until golden.
+3. (If using two baking sheets, rotate halfway through for even toasting.)
 
-3. **Cook veggies & sausage**
+### Step 3: Cook Veggies & Sausage
 
-   - Heat a drizzle of olive oil in a large pan over medium-high heat. Add onion, pepper, salt, and pepper. Cook, stirring occasionally, until browned and softened, 6–8 minutes. Transfer to a plate.
-   - In the same pan, add another drizzle of oil. Remove sausage from casings (if needed) and cook, breaking into pieces, until browned and cooked through, 4–6 minutes.
+1. Heat a drizzle of olive oil in a large pan over medium-high heat.
+2. Add onion, pepper, salt, and pepper. Cook for 6–8 minutes, stirring occasionally, until softened and browned.
+3. Transfer veggies to a plate.
+4. In the same pan, heat another drizzle of oil.
+5. Remove sausage from casings (if needed) and cook, breaking up meat, until browned and cooked through, 4–6 minutes.
 
-4. **Make tomato-butter sauce**
+### Step 4: Make Tomato-Butter Sauce
 
-   - In a microwave-safe bowl, combine 3/4 cup water with 6 tbsp butter.Microwave until hot and melted, about 1 minute.
-   - Whisk in tomato paste until smooth. Season with salt and pepper.
+1. In a microwave-safe bowl, combine ¾ cup water and 6 tbsp butter.
+2. Microwave until hot and melted, about 1 minute.
+3. Whisk in tomato paste until smooth.
+4. Season with salt and pepper.
 
-5. **Assemble & bake flatbreads**
+### Step 5: Assemble & Bake Flatbreads
 
-   - Spread toasted flatbreads with sauce. Top evenly with mozzarella, Monterey Jack, sausage, and veggies. Season with salt and pepper.
-   - Bake until cheese is melted and flatbreads are golden, 3–5 minutes.
+1. Spread toasted flatbreads with the tomato-butter sauce.
+2. Top evenly with mozzarella, Monterey Jack, sausage, and veggie mixture.
+3. Season lightly with salt and pepper.
+4. Bake for 3–5 minutes, until cheese is melted and edges are crisp.
 
-6. **Finish & serve**
-   - Let flatbreads cool slightly before slicing.
-   - Divide between plates and serve hot.
+### Step 6: Finish & Serve
 
-## 💡 Notes
+1. Let flatbreads cool slightly before slicing.
+2. Divide between plates and serve warm.
+
+## Notes
 
 - Italian sausage is fully cooked when internal temperature reaches **160°F**.
+- Use naan or pita if flatbreads aren’t available.
+- Add crushed red pepper or chili flakes for extra heat.
 
 [HelloFresh]: https://www.hellofresh.com/recipes/pork-sausage-pepper-flatbreads-6513201c3cb5229806dac61d

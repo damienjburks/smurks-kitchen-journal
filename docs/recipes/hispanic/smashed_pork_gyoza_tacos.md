@@ -1,4 +1,5 @@
 ---
+id: smashed-pork-gyoza-tacos
 title: Smashed Pork Gyoza Tacos
 description: A delightful fusion recipe combining the savory flavors of Japanese gyoza with the vibrant zest of Mexican street tacos. Perfect for adventurous food lovers seeking a unique twist on classic tacos.
 tags:
@@ -21,32 +22,37 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity**       | **Calories**   | **Source**                                                                             |
-| -------------------------- | ------------------ | -------------- | -------------------------------------------------------------------------------------- |
-| Organic Ground Pork        | 30 oz              | 2,295 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/ground-pork-cooked)      |
-| Mexican Cheese Blend       | 1.5 cups (~6 oz)   | 672 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/mexican-blend-cheese) |
-| Sour Cream                 | 9 tbsp (~4.5 oz)   | 270 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sour-cream)              |
-| Mayonnaise                 | 12 tbsp            | 720 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/mayonnaise-regular)      |
-| Flour Tortillas (18 total) | 18 medium (~36 oz) | 1,080 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/flour-tortillas)         |
-| Sesame Oil                 | 3 tbsp             | 360 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/sesame-oil)           |
-| Soy Sauce                  | 6 tbsp             | 60 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/soy-sauce)            |
-| White Wine Vinegar         | 15 tsp (~5 tbsp)   | ~20 kcal       | [Estimated]                                                                            |
-| Sesame Seeds               | 3 tbsp             | 156 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sesame-seeds)            |
-| Vegetables (approx. mix)   | Various            | ~150 kcal      | [Mixed estimate from FatSecret for cucumber, carrot, garlic, ginger, scallions]        |
-| Olive Oil (for cooking)    | 1 tbsp             | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil)            |
-| **Total (for 6 servings)** |                    | **5,902 kcal** |                                                                                        |
-| **Per Serving**            |                    | **~984 kcal**  |                                                                                        |
+| **Ingredient**                 | **Quantity**         | **Calories** | **Source**                                                                                        |
+| ------------------------------ | -------------------- | ------------ | ------------------------------------------------------------------------------------------------- |
+| Ground Pork (cooked)           | 30 oz                | 2,295 kcal   | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/ground-pork-cooked)                 |
+| Flour Tortillas (medium, 40 g) | 18 tortillas (720 g) | 2,160 kcal   | [Nutritionix](https://www.nutritionix.com/food/flour-tortilla)                                    |
+| Mayonnaise                     | 12 tbsp (180 g)      | 1,260 kcal   | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/mayonnaise)                         |
+| Sour Cream                     | 9 tbsp (135 g)       | 270 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sour-cream?portionid=29597)         |
+| Sesame Oil                     | 3 tbsp (45 ml)       | 360 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sesame-oil)                         |
+| Soy Sauce                      | 6 tbsp (90 ml)       | 60 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/soy-sauce)                          |
+| Sriracha                       | 3 tsp (15 g)         | 15 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/huy-fong-foods/sriracha-hot-chili-sauce) |
+| Sesame Seeds                   | 3 tbsp (27 g)        | 155 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sesame-seeds)                       |
+| White Wine Vinegar             | 10 tsp (50 ml)       | 10 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/vinegar-white-wine)                 |
+| Shallots                       | 3 medium (150 g)     | 120 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/shallots)                           |
+| Scallions                      | 6 medium (90 g)      | 30 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/green-onions)                       |
+| Fresh Ginger                   | 3 thumbs (36 g)      | 25 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/ginger-root-raw)                    |
+| Garlic                         | 3 cloves (9 g)       | 13 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/garlic-raw)                         |
+| Mini Cucumbers                 | 6 (600 g)            | 90 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/cucumber-raw)                       |
+| Carrots                        | 9 oz (255 g)         | 105 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/carrots-raw)                        |
+
+**Total (approx): 6,968 kcal**  
+**Per serving (6 servings): ~1,162 kcal**
 
 ## Ingredients
 
 ### Produce
 
-- 3 Shallots
-- 6 Scallions
-- 3 Thumbs of Fresh Ginger
-- 3 Cloves Garlic
-- 6 Mini Cucumbers
-- 9 oz Carrots
+- 3 Shallots (thinly sliced)
+- 6 Scallions (whites and greens separated)
+- 3 Thumbs Fresh Ginger (grated or minced)
+- 3 Cloves Garlic (minced)
+- 6 Mini Cucumbers (sliced into rounds)
+- 9 oz Carrots (grated)
 
 ### Pantry
 
@@ -55,12 +61,12 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 - 12 tbsp Mayonnaise
 - 3 tsp Sriracha
 - 3 tbsp Sesame Seeds
-- 15 tsp White Wine Vinegar
+- 10 tsp White Wine Vinegar
+- Salt & Pepper
 
 ### Dairy
 
 - 9 tbsp Sour Cream
-- 1.5 cups Mexican Cheese Blend
 
 ### Protein
 
@@ -74,45 +80,66 @@ This recipe is inspired by [HelloFresh], which we originally used to make this a
 
 ### Step 1: Prep
 
-• Wash and dry all produce.  
-• Thinly slice cucumbers into rounds.  
-• Halve, peel, and thinly slice shallots.  
-• Grate carrots using the large holes of a box grater.  
-• Trim and thinly slice scallions, separating whites from greens.  
-• Peel and finely grate or mince garlic and ginger.
+1. Wash and dry all produce.
+2. Thinly slice cucumbers into rounds.
+3. Halve, peel, and thinly slice shallots.
+4. Grate carrots using the large holes of a box grater.
+5. Trim and thinly slice scallions, separating whites from greens.
+6. Peel and finely grate or mince garlic and ginger.
 
 ### Step 2: Make Pickled Salad & Sriracha Mayo
 
-• In a medium bowl, whisk together white wine vinegar, half the sesame oil, 1 tsp soy sauce, and 1 tsp sugar.  
-• Add cucumbers, shallots, and grated carrots. Toss and let sit to pickle, stirring occasionally.  
-• In a small bowl, mix mayonnaise with as much Sriracha as desired. Set aside.
+1. In a medium bowl, whisk together:
+   - White wine vinegar
+   - Half the sesame oil
+   - 1 tsp soy sauce
+   - 1 tsp sugar
+2. Add cucumbers, shallots, and grated carrots. Toss and let sit to pickle, stirring occasionally.
+3. In a small bowl, mix mayonnaise with desired amount of Sriracha. Set aside.
 
 ### Step 3: Make Pork Meatballs
 
-• In a separate bowl, mix ground pork, scallion whites, ginger, garlic, remaining sesame oil, 2 tsp soy sauce, salt, and pepper.  
-• Form into 18 2-inch meatballs (3 per serving).
+1. In a large bowl, combine:
+   - Ground pork
+   - Scallion whites
+   - Ginger
+   - Garlic
+   - Remaining sesame oil
+   - 2 tsp soy sauce
+   - Pinch of salt and pepper
+2. Mix until just combined.
+3. Form into 18 meatballs (about 2 inches each, 3 per serving).
 
 ### Step 4: Assemble Gyoza Tacos
 
-• Place each meatball in the center of a tortilla on a clean surface.  
-• Cover with plastic wrap and press down to flatten the pork to the edges of the tortilla.  
-**TIP:** You can reuse the same piece of plastic wrap to save time.
+1. Place each meatball in the center of a tortilla on a clean surface.
+2. Cover with plastic wrap and press down to flatten pork to the edges of the tortilla.
+   - **Tip:** Reuse the same piece of plastic wrap for efficiency.
 
 ### Step 5: Cook Tacos
 
-• Heat a drizzle of oil in a large nonstick pan over medium heat.  
-• Working in batches, cook meat-side down for 2–3 minutes until browned.  
-• Flip and cook the tortilla side for 30–60 seconds more until lightly toasted.  
-• Transfer to a paper towel-lined tray and cover with foil to keep warm.  
-**TIP:** Lower heat as needed for later batches.
+1. Heat a drizzle of oil in a large nonstick pan over medium heat.
+2. Working in batches, place tacos meat-side down.
+   - Cook 2–3 minutes until browned.
+   - Flip and cook tortilla side 30–60 seconds until toasted.
+3. Transfer to a paper towel–lined tray and cover with foil to keep warm.
+   - **Tip:** Lower heat as needed for later batches.
 
 ### Step 6: Finish & Serve
 
-• Drain pickled veggies and toss with half the scallion greens. Season to taste.  
-• Divide tacos among plates. Top each with pickled veggie mix, a drizzle of Sriracha mayo, remaining scallion greens, and sesame seeds. Serve immediately.
+1. Drain pickled veggies and toss with half the scallion greens. Season to taste.
+2. Divide tacos among plates.
+3. Top with:
+   - Pickled veggie mix
+   - Drizzle of Sriracha mayo
+   - Remaining scallion greens
+   - Sesame seeds
+4. Serve immediately.
 
-> **Note:** Ground pork is fully cooked when it reaches an internal temperature of 160°F.
+## Notes
 
-<!-- Links -->
+- **Ground pork is fully cooked when it reaches an internal temperature of 160°F.**
+- For extra crunch, toast tortillas in a dry pan before assembling.
+- Adjust spice by increasing or reducing the Sriracha.
 
 [HelloFresh]: https://www.hellofresh.com/recipes/smashed-pork-gyoza-tacos-6682ebfe88a40e5df74250d6
