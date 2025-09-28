@@ -8,7 +8,9 @@ tags:
   - Fries
 ---
 
+<!-- TODO: Add photo or picture
 ![Homemade Burgers and Fries](/img/comfort_food/burgers_and_fries/cover.png)
+-->
 
 ## Overview
 
