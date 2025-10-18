@@ -74,7 +74,7 @@ Inspired by [HelloFresh], this version stays true to the Caribbean roots — bri
 
 ### Step 1: Cook the Rice
 
-1. In a small pot, combine rice, 1¼ cups water, and a pinch of salt (adjust for serving size).
+1. In a small pot, combine rice, 3.75 cups water, and a pinch of salt (adjust for serving size).
 2. Bring to a boil, cover, and reduce heat to low.
 3. Simmer until rice is tender (15–18 minutes).
 4. Keep covered off heat until ready to serve.
@@ -90,7 +90,7 @@ Inspired by [HelloFresh], this version stays true to the Caribbean roots — bri
 
 ### Step 3: Marinate the Chicken
 
-1. In a bowl, combine chicken with oregano, half the Southwest Spice Blend, ¼ tsp sugar, olive oil, juice from half a lime, salt, and pepper.
+1. In a bowl, combine chicken with oregano, half the Southwest Spice Blend, 3/4 tsp sugar, olive oil, juice from half a lime, salt, and pepper.
 2. Mix to coat and let marinate for at least 5 minutes.
 
 ### Step 4: Sear the Chicken
@@ -102,7 +102,7 @@ Inspired by [HelloFresh], this version stays true to the Caribbean roots — bri
 ### Step 5: Build the Stew
 
 1. Add garlic and tomato paste to the pan; stir for 30–60 seconds until fragrant.
-2. Add bell peppers, onions, chicken stock concentrate, remaining spice blend, and ½ cup water.
+2. Add bell peppers, onions, chicken stock concentrate, remaining spice blend, and 1.5 cup water.
 3. Season with salt and pepper.
 4. Cover and simmer until veggies are softened and chicken is fully cooked (4–6 minutes).
 

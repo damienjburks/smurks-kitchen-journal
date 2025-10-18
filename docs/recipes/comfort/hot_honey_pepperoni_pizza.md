@@ -1,6 +1,6 @@
 ---
 id: hot-honey-pepperoni-pizza
-title: "Bee Sting" Hot Honey Pepperoni Pizza
+title: Bee Sting Hot Honey Pepperoni Pizza
 description: Sweet, spicy, and cheesy perfection — crispy homemade pizza topped with marinara, mozzarella, green pepper, and pepperoni, finished with a drizzle of hot honey and served with ranch for dipping.
 tags:
   - Pizza
