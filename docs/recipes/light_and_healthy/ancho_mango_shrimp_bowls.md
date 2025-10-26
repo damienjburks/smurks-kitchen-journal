@@ -15,7 +15,7 @@ tags:
 
 One of the fastest and easiest meals you’ll ever make—no knifework required! In this sweet-and-smoky bowl, shrimp is sautéed and tossed with microwavable rice, juicy mango chunks, and a tangy ancho chile sauce. It all comes together in a single pan in under 15 minutes, making it perfect for busy weeknights without compromising on bold flavor.
 
-This meal is inspired by [HelloFresh], which we originally used to make this in the past.
+This meal is inspired by [Hello Fresh], which we originally used to make this in the past.
 
 > - **Serves:** 6
 > - **Prep Time:** ~5 minutes
