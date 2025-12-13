@@ -1,9 +1,9 @@
 # Smurks Kitchen Journal
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsmurkskitchen.com&label=Live%20Site&style=flat-square&logo=github)](https://kitchen.damienjburks.com)
-[![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-222?style=flat-square&logo=github)](https://pages.github.com/)
-[![Built with Docusaurus](https://img.shields.io/badge/Built%20with-Docusaurus-3A2E8C?style=flat-square&logo=docusaurus)](https://docusaurus.io)
-![CI Status](https://img.shields.io/github/actions/workflow/status/damienjburks/personal-website/deploy.yml?style=flat-square)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsmurkskitchen.com&label=Live%20Site&style=for-the-badge&logo=github)](https://smurkskitchen.com)
+[![Built with Docusaurus](https://img.shields.io/badge/Built%20with-Docusaurus-3A2E8C?style=for-the-badge&logo=docusaurus)](https://docusaurus.io)
+![Hosted on AWS](https://img.shields.io/badge/Hosted%20on-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Build Status](https://img.shields.io/github/actions/workflow/status/damienjburks/smurks-kitchen-journal/deploy.yml?branch=main&style=for-the-badge)
 
 ![Logo](./static/img/logo.png)
 
