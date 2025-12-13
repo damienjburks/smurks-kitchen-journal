@@ -10,17 +10,11 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://kitchen.damienjburks.com',
+  url: 'https://smurkskitchen.com',
   
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "damienjburks", // Usually your GitHub org/user name.
-  projectName: "smurks-kitchen-journal", // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -67,8 +61,57 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo.png',
+    metadata: [
+      {
+        name: "keywords",
+        content: "Recipes, Food",
+      },
+
+      // Open Graph / Facebook
+      { property: "og:type", content: "website" },
+      { property: "og:site_name", content: "Smurks Kitchen Journal" },
+      {
+        property: "og:title",
+        content: "Smurks Kitchen Journal",
+      },
+      {
+        property: "og:description",
+        content:
+          "A cozy collection of homemade recipes, cooking stories, and culinary memories from Damien & Eboni's kitchen. Real food, honest notes, and the joy of cooking together."
+      },
+      { property: "og:url", content: "https://smurkskitchen.com" },
+      {
+        property: "og:image",
+        content: "https://smurkskitchen.com/img/logo.png",
+      },
+      {
+        property: "og:logo",
+        content: "https://smurkskitchen.com/img/logo.png",
+      },
+      { property: "og:image:alt", content: "Smurks Kitchen Journal Logo" },
+      { property: "og:image:width", content: "1200" },
+      { property: "og:image:height", content: "630" },
+      { property: "og:locale", content: "en_US" },
+
+      // Twitter Card
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:site", content: "@damienjburks" },
+      { name: "twitter:creator", content: "@damienjburks" },
+      {
+        name: "twitter:title",
+        content: "Smurks Kitchen Journal",
+      },
+      {
+        name: "twitter:description",
+        content:
+          "A cozy collection of homemade recipes, cooking stories, and culinary memories from Damien & Eboni's kitchen. Real food, honest notes, and the joy of cooking together.",
+      },
+      {
+        name: "twitter:image",
+        content: "https://smurkskitchen.com/img/logo.png",
+      },
+    ],
     navbar: {
       logo: {
         alt: 'smurks-kitchen-journal-logo',

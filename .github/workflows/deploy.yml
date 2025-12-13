@@ -1,6 +1,7 @@
-name: Deploy to GitHub Pages
+name: Deploy UI to AWS
 
 on:
+  pull_request_target:
   push:
     branches:
       - main
@@ -8,45 +9,55 @@ on:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
-  build:
-    name: Build Docusaurus
+  deploy:
+    if: github.repository_owner == 'smurks-kitchen-journal'
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
   
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 20
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_ARN }}
+          aws-region: us-east-1
+          role-session-name: GitHubActions-Deploy
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+
+      - name: Set up Python
+        run: uv python install
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: uv sync
 
-      - name: Build website
-        run: yarn build
-      
-      - name: Upload Build Artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Install Node.js dependencies
+        run: |
+          cd app
+          npm install
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
         with:
-          path: build
+          cli_config_credentials_token: ${{ secrets.TF_API_TOKEN }}
 
-  deploy:
-    name: Deploy to GitHub Pages
-    needs: build
+      - name: Deploy to S3 and invalidate CloudFront (main branch only)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          uv run invoke deploy
 
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write # to deploy to Pages
-      id-token: write # to verify the deployment originates from an appropriate source
-
-    # Deploy to the github-pages environment
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deployment Summary
+        if: github.ref == 'refs/heads/main'
+        run: |
+          echo "🚀 Deployment completed successfully!"
+          echo "📊 Getting deployment info..."
+          uv run invoke get-outputs
