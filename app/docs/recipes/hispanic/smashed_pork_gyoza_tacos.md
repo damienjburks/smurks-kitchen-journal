@@ -8,7 +8,7 @@ tags:
   - Tacos
 ---
 
-![Cover](/img/italian_eats/smashed_pork_gyoza_tacos/cover.png)
+![Cover](/img/hispanic/smashed_pork_gyoza_tacos/cover.png)
 
 ## Overview
 
