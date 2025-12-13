@@ -5,7 +5,7 @@
 ![Hosted on AWS](https://img.shields.io/badge/Hosted%20on-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/damienjburks/smurks-kitchen-journal/deploy.yml?branch=main&style=for-the-badge)
 
-![Logo](./static/img/logo.png)
+![Logo](./app/static/img/logo.png)
 
 > ✨ A digital recipe heaven built with :heart: by Damien & Eboni
 

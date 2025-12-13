@@ -10,17 +10,13 @@ on:
 
 jobs:
   deploy:
-    if: github.repository_owner == 'smurks-kitchen-journal'
+    if: github.repository_owner == 'damienjburks'
     runs-on: ubuntu-latest
     permissions:
       id-token: write
       contents: read
     steps:
-<<<<<<< HEAD
       - uses: actions/checkout@v6
-=======
-      - uses: actions/checkout@v5
->>>>>>> ba15a56045a06701549b619713860803c0501e6e
         with:
           fetch-depth: 0
   
