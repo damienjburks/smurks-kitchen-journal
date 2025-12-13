@@ -1,11 +1,11 @@
 {
-    "label": "Mediterranean Meals",
-    "position": 1,
-    "link": {
-      "type": "generated-index",
-      "description": "Explore a variety of delicious Mediterranean meals, featuring fresh ingredients and vibrant flavors.",
-      "keywords": ["Mediterranean", "Healthy"],
-      "image": "/img/mediterranean.jpg",
-      "title": "Mediterranean Meals"
-    }
+  "label": "Mediterranean Meals",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Explore a variety of delicious Mediterranean meals, featuring fresh ingredients and vibrant flavors.",
+    "keywords": ["Mediterranean", "Healthy"],
+    "image": "/img/mediterranean.jpg",
+    "title": "Mediterranean Meals"
   }
+}

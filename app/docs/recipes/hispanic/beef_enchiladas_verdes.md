@@ -1,4 +1,5 @@
 ---
+id: one-pan-beef-enchiladas-verdes
 title: One-Pan Beef Enchiladas Verdes
 description: Flavor-packed beef enchiladas rolled in tortillas, smothered in salsa verde, topped with melty cheese, and baked to bubbly perfection — all in one pan.
 tags:
@@ -14,7 +15,7 @@ tags:
 
 When it comes to Mexican-style cuisine, burritos usually steal the spotlight — but enchiladas deserve just as much love. They're technically easier-to-assemble burritos that get smothered in a delicious sauce, but really, they're so much more than that! Our version starts with spiced beef and charred green peppers, rolled up in warm tortillas, topped with tangy salsa verde and melty cheese, then baked until golden and bubbly. Hear that? That’s the sound of the dinner bell!
 
-This meal is inspired by [Hello Fresh], which we originally used to make this in the past.
+This meal is inspired by [HelloFresh], which we originally used to make this in the past.
 
 > - **Serves:** 6
 > - **Prep Time:** ~15 minutes
@@ -22,27 +23,26 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
 
 ## Estimated Calories & Sources
 
-| **Ingredient**               | **Quantity**      | **Calories**   | **Source**                                                                                                       |
-| ----------------------------- | ----------------- | -------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Organic Beef (85/15)          | 30 oz             | 2,295 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/ground-beef-85-lean-15-fat-cooked?portionid=51710) |
-| Mexican Cheese Blend          | 1.5 cups (~6 oz)  | 672 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/mexican-blend-cheese?portionid=330032)          |
-| Salsa Verde                   | 21 oz             | 252 kcal       | [Nutritionix](https://www.nutritionix.com/food/salsa-verde)                                                      |
-| Sour Cream                    | 9 tbsp (~4.5 oz)  | 270 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sour-cream?portionid=29597)                        |
-| Green Peppers                  | 3 medium          | 75 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/peppers-green?portionid=34202)                  |
-| Scallions                     | 6 stalks          | 30 kcal        | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/scallions?portionid=30702)                      |
-| Olive Oil                     | 1 tbsp            | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                      |
-| Southwest Spice Blend         | 3 tbsp            | ~24 kcal       | Estimated (varies slightly by brand)                                                                             |
-| Hot Sauce                     | 3 tsp             | ~15 kcal       | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                        |
-| Flour Tortillas (6 medium)    | 6 tortillas (~12 oz) | 720 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/flour-tortillas?portionid=33951)                   |
-| **Total (for 6 servings)**    |                   | **4,472 kcal** |                                                                                                                  |
-| **Per Serving**               |                   | **~745 kcal**  |                                                                                                                  |
+| **Ingredient**                 | **Quantity**         | **Calories** | **Source**                                                                                                       |
+| ------------------------------ | -------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Ground Beef (85/15, cooked)    | 30 oz                | 2,295 kcal   | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/ground-beef-85-lean-15-fat-cooked?portionid=51710) |
+| Mexican Cheese Blend           | 1.5 cups (6 oz)      | 672 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/mexican-blend-cheese?portionid=330032)          |
+| Salsa Verde                    | 21 oz (595 g)        | 252 kcal     | [Nutritionix](https://www.nutritionix.com/food/salsa-verde)                                                      |
+| Sour Cream                     | 9 tbsp (135 g)       | 270 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/sour-cream?portionid=29597)                        |
+| Green Peppers                  | 3 medium (372 g)     | 75 kcal      | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/peppers-green?portionid=34202)                  |
+| Olive Oil                      | 1 tbsp (15 ml)       | 119 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                      |
+| Southwest Spice Blend          | 3 tbsp (21 g)        | 24 kcal      | Estimate (varies slightly by brand)                                                                              |
+| Hot Sauce                      | 3 tsp (15 g)         | 15 kcal      | [Nutritionix](https://www.nutritionix.com/food/hot-sauce)                                                        |
+| Flour Tortillas (medium, 40 g) | 18 tortillas (720 g) | 2,160 kcal   | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/flour-tortillas?portionid=33951)                   |
+
+**Total (approx): 6,182 kcal**  
+**Per serving (6 servings): ~1,030 kcal**
 
 ## Ingredients
 
 ### Produce
 
 - 3 Long Green Peppers
-- 6 Scallions
 
 ### Pantry
 
@@ -59,58 +59,62 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
 
 ### Protein
 
-- 30 oz Organic Beef (85% lean, 15% fat)
+- 30 oz Organic Ground Beef (85% lean, 15% fat)
 
 ### Bread
 
-- 6 medium Flour Tortillas
+- 18 Medium Flour Tortillas
 
 ## Instructions
 
-1. **Prep the Vegetables:**  
-   - Adjust rack to top position and heat broiler to high.
-   - Wash and dry produce.
-   - Halve, core, and thinly slice the green peppers crosswise into strips.
-   - Thinly slice the scallions, separating whites and greens.
+### Step 1: Prep the Vegetables
 
-2. **Make the Crema:**  
-   - In a small bowl, combine sour cream and hot sauce to taste.
-   - Stir in water 1 teaspoon at a time until it reaches a drizzling consistency.
-   - Season with salt and pepper.
+1. Adjust oven rack to top position and heat broiler to high.
+2. Wash and dry produce.
+3. Halve, core, and thinly slice the green peppers crosswise into strips.
 
-3. **Cook the Peppers:**  
-   - Heat a drizzle of olive oil in a large, preferably ovenproof, pan over medium-high heat.
-   - Add green peppers; season with salt and pepper.
-   - Cook, stirring occasionally, until softened and lightly charred, 5–7 minutes.
+### Step 2: Make the Crema
 
-4. **Cook the Beef:**  
-   - Add another drizzle of oil to the same pan.
-   - Add beef and cook, breaking it up with a spoon.
-   - Season with Southwest Spice Blend, salt, and pepper.
-   - Cook until browned and cooked through, 4–6 minutes.
-   - Stir in 3/4 of the salsa verde (you’ll use the rest later); taste and adjust seasoning as needed.
-   - Turn off heat and transfer beef mixture to a medium bowl. Wipe out pan.
+1. In a small bowl, combine sour cream and hot sauce to taste.
+2. Stir in water, 1 tsp at a time, until the crema reaches a drizzling consistency.
+3. Season with salt and pepper.
 
-5. **Assemble the Enchiladas:**  
-   - Place a small amount of beef filling on one half of each tortilla.
-   - Roll up the tortillas, starting with the filled sides, to form enchiladas.
-   - Arrange enchiladas seam-side down in the pan used for cooking the beef (or in a 9x13" baking dish if needed).
-   - Top with the remaining salsa verde and sprinkle evenly with the Mexican cheese blend.
+### Step 3: Cook the Peppers
 
-6. **Broil:**  
-   - Broil enchiladas on the top rack until browned and bubbly, 3–4 minutes.
-   - Watch carefully to avoid burning.
+1. Heat a drizzle of olive oil in a large ovenproof pan over medium-high heat.
+2. Add green peppers, season with salt and pepper, and cook, stirring occasionally, until softened and lightly charred (5–7 minutes).
 
-7. **Finish and Serve:**  
-   - Drizzle enchiladas with crema.
-   - Garnish with scallion greens.
-   - Serve hot and enjoy!
+### Step 4: Cook the Beef
 
-### 💡 Notes
+1. Add another drizzle of oil to the pan with peppers.
+2. Add beef and cook, breaking it up with a spoon, until browned and cooked through.
+3. Season with Southwest spice blend, salt, and pepper.
+4. Stir in 1/4 of the salsa verde (reserve the rest).
+5. Taste and adjust seasoning.
+6. Turn off heat and transfer beef mixture to a medium bowl. Wipe out pan.
+
+### Step 5: Assemble the Enchiladas
+
+1. Place a small amount of beef filling on one half of each tortilla.
+2. Roll tortillas up from the filled side to form enchiladas.
+3. Arrange enchiladas seam-side down in the same pan (or in a 9x13" baking dish if needed).
+4. Top with remaining salsa verde and sprinkle with Mexican cheese blend.
+
+### Step 6: Broil
+
+1. Place enchiladas under the broiler on the top rack.
+2. Broil 3–4 minutes until cheese is browned and bubbly.
+3. Watch carefully to prevent burning.
+
+### Step 7: Finish & Serve
+
+1. Drizzle enchiladas with crema.
+2. Serve hot and enjoy!
+
+## Notes
 
 - **Ground beef is fully cooked when internal temperature reaches 160°F.**
-- Want extra crispy tortillas? Lightly brush tortillas with olive oil before broiling.
-- Customize your spice level by adding more or less hot sauce to the crema.
+- For extra-crispy tortillas, lightly brush with olive oil before broiling.
+- Adjust spice level by using more or less hot sauce in the crema.
 
-<!-- Links -->
-[Hello Fresh]: https://www.hellofresh.com/recipes/one-pan-beef-enchiladas-verdes-646be3ba27c3a0018f11a303
+[HelloFresh]: https://www.hellofresh.com/recipes/one-pan-beef-enchiladas-verdes-646be3ba27c3a0018f11a303

@@ -7,7 +7,7 @@ tags:
   - One-Pan Meals
   - Pork Recipes
   - Comfort Food
-  - Hello Fresh Inspired
+  - HelloFresh Inspired
 ---
 
 ![Pork Sausage Couscous Bowls](/img/mediterranean/sausage_couscous_bowls/cover.png)
@@ -24,83 +24,83 @@ This meal is inspired by [Hello Fresh], which we originally used to make this in
 
 ## Estimated Calories & Sources
 
-| **Ingredient**             | **Quantity**     | **Calories**   | **Source**                                                                                                  |
-| -------------------------- | ---------------- | -------------- | ----------------------------------------------------------------------------------------------------------- |
-| Italian Pork Sausage       | 27 oz            | 2,430 kcal     | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/pork-sausage-cooked?portionid=33867)       |
-| Israeli Couscous (dry)     | 7.5 oz           | 750 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/pearl-couscous-cooked?portionid=325803)    |
-| Marinara Sauce             | 42 oz            | 672 kcal       | [Nutritionix](https://www.nutritionix.com/food/marinara-sauce)                                              |
-| Parmesan Cheese            | 9 tbsp (~4.5 oz) | 515 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese-%28grated%29?portionid=29214) |
-| Italian Cheese Blend       | 1.5 cups (~6 oz) | 672 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/italian-blend-cheese?portionid=29777)      |
-| Spinach                    | 15 oz            | 100 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/spinach?portionid=34207)                      |
-| Olive Oil                  | 1 tbsp           | 119 kcal       | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil?portionid=29339)                 |
-| Tuscan Heat Spice          | 3 tbsp           | ~24 kcal       | Estimated (varies slightly by brand)                                                                        |
-| Vidalia Onion Spice/Paste  | 1.5 oz           | ~30 kcal       | Estimated                                                                                                   |
-| **Total (for 6 servings)** |                  | **5,312 kcal** |                                                                                                             |
-| **Per Serving**            |                  | **~885 kcal**  |                                                                                                             |
+| **Ingredient**       | **Quantity**            | **Calories** | **Source**                                                                                            |
+| -------------------- | ----------------------- | ------------ | ----------------------------------------------------------------------------------------------------- |
+| Italian Pork Sausage | 27 oz (765 g)           | ~2,430 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/pork-sausage-cooked?portionid=33867) |
+| Pearl Couscous       | 7.5 oz (213 g)          | ~750 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/pearl-couscous-dry)                     |
+| Marinara Sauce       | 42 oz (1.2 kg)          | ~840 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/marinara-sauce)                         |
+| Spinach              | 15 oz (425 g)           | ~100 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/spinach)                                |
+| Parmesan Cheese      | 9 tbsp (2.7 oz / 75 g)  | ~285 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/usda/parmesan-cheese)                        |
+| Italian Cheese Blend | 1.5 cups (6 oz / 170 g) | ~480 kcal    | Estimated (varies by brand)                                                                           |
+| Olive Oil            | ~2 tbsp (28 g)          | ~240 kcal    | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/olive-oil)                           |
+| Vidalia Onion Spice  | 1.5 oz (42 g)           | ~120 kcal    | Estimated (seasoning blend, varies by brand)                                                          |
+| Tuscan Heat Spice    | 3 tbsp (24 g)           | ~40 kcal     | Estimated                                                                                             |
+
+**Total (approx): 5,285 kcal**  
+**Per serving (6 servings): ~880 kcal**
 
 ## Ingredients
 
 ### Produce
 
-- 15 oz Spinach
+- 15 oz spinach
 
 ### Pantry
 
-- 42 oz Marinara Sauce
+- 42 oz marinara sauce
 - 3 tbsp [Tuscan Heat Spice]
 - 1.5 oz [Vidalia Onion Spice] (or paste)
-- 7.5 oz Israeli Couscous
-- Olive Oil
-- Salt & Pepper
+- 7.5 oz Israeli (pearl) couscous
+- Olive oil
+- Salt & pepper
 - 1 large oven-ready baking tray
 
 ### Dairy
 
-- 9 tbsp Parmesan Cheese
-- 1.5 cups Italian Cheese Blend
+- 9 tbsp Parmesan cheese
+- 1.5 cups Italian cheese blend
 
 ### Protein
 
-- 27 oz Italian Pork Sausage
+- 27 oz Italian pork sausage
 
 ## Instructions
 
-1. **Prep and Assemble:**
+### Step 1: Prep & Assemble
 
-   - Adjust rack to middle position and preheat oven to 450°F (232°C).
-   - Wash and dry produce.
-   - Remove sausage from casing if necessary and break into bite-size pieces in the oven-ready tray.
-   - Make the [Tuscan Heat Spice] and measure out 3 tbsp.
-   - Add couscous, marinara sauce, Italian cheese blend, stock concentrate (if using), Tuscan Heat Spice, and Vidalia onion paste. Mix well to combine.
-   - Top evenly with spinach, pressing it down slightly so no leaves hang over the edges.
+1. Adjust rack to middle position and preheat oven to 450°F (232°C).
+2. Wash and dry produce.
+3. Remove sausage from casing (if needed) and break into bite-size pieces directly in the oven-ready tray.
+4. Make [Tuscan Heat Spice] (if homemade) and measure out 3 tbsp.
+5. Add couscous, marinara sauce, Italian cheese blend, Tuscan Heat Spice, and Vidalia onion paste to the tray. Mix well to combine.
+6. Top evenly with spinach, pressing it down so no leaves hang over the edges.
 
-2. **Bake Covered:**
+### Step 2: Bake Covered
 
-   - Cover the tray tightly with foil.
-   - Bake on the middle rack for 30 minutes, until couscous is tender and sausage is almost cooked through.
+1. Cover the tray tightly with foil.
+2. Bake on the middle rack for 30 minutes, until couscous is tender and sausage is almost cooked through.
 
-3. **Uncover and Stir:**
+### Step 3: Uncover & Stir
 
-   - Carefully remove the foil (watch out for steam!) and stir the mixture until spinach is fully combined.
+1. Carefully remove the foil (watch out for steam).
+2. Stir the mixture until spinach is fully combined.
 
-4. **Finish Baking:**
+### Step 4: Finish Baking
 
-   - Sprinkle Parmesan cheese over the top.
-   - Return to the oven, uncovered, and bake for another 10–12 minutes, until sausage is fully cooked and cheese is melted and golden.
+1. Sprinkle Parmesan cheese over the top.
+2. Return to the oven, uncovered, and bake for another 10–12 minutes, until sausage is fully cooked and cheese is melted and golden.
 
-5. **Serve:**
-   - Divide the sausage couscous bake between shallow bowls or plates.
-   - Serve hot and enjoy!
+### Step 5: Serve
 
-> **Ground pork is fully cooked when internal temperature reaches 160°F.**
+1. Divide the sausage couscous bake between shallow bowls or plates.
+2. Serve hot and enjoy!
 
-### 💡 Notes
+## Notes
 
-- Want a little extra zing? Add a squeeze of fresh lemon over the finished bowls.
-- Substitute chicken sausage if you prefer a lighter version.
-
-<!-- Links -->
+- Ground pork is fully cooked when internal temperature reaches **160°F**.
+- For a zesty kick, squeeze fresh lemon over the finished bowls.
+- Swap in chicken sausage for a lighter version.
 
 [Hello Fresh]: https://www.hellofresh.com/recipes/pork-sausage-couscous-bowls-67cec6e76a498293bec85b1c
-[Vidalia Onion Spice]: https://www.walmart.com/ip/VIDALIA-BRANDS-SSNNG-FRENCH-ONION-5-OZ-Pack-of-8/171783314?wmlspartner=wlpa&selectedSellerId=101621815&selectedOfferId=6182B2E178FB309D9FBE262C7EB206EE&conditionGroupCode=1&adid=22222222222000000000&wmlspartner=wmtlabs&wl0=e&wl1=o&wl2=c&wl3=10352200394&wl4=pla-1103028060075&wl5=&wl6=&wl7=&wl10=Walmart&wl11=Online&wl12=171783314_10001641171&wl14=vidalia%20onion%20seasoninig&veh=sem&gclid=f0bd03b789d9198f44466bb9eeb28e70&gclsrc=3p.ds&msclkid=f0bd03b789d9198f44466bb9eeb28e70
+[Vidalia Onion Spice]: https://www.walmart.com/ip/VIDALIA-BRANDS-SSNNG-FRENCH-ONION-5-OZ-Pack-of-8/171783314
 [Tuscan Heat Spice]: https://whatayummy.com/hello-fresh-tuscan-heat-spice/#What_is_Tuscan_Heat_Spice
