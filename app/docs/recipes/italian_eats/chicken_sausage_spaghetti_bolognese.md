@@ -17,8 +17,8 @@ A big bowl of pasta never fails to satisfy—it’s quick, carby, comforting, an
 Inspired by [HelloFresh], this dish brings together bold, creamy tomato flavor with the richness of sausage and the freshness of roasted veggies.
 
 > - **Serves:** 6  
-> - **Prep Time:** ~5 minutes  
-> - **Cook Time:** ~30 minutes  
+> - **Prep Time:** ~10 minutes  
+> - **Cook Time:** ~40 minutes  
 
 ## Estimated Calories & Sources
 
