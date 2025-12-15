@@ -22,8 +22,6 @@ This meal is inspired by [HelloFresh], which is what we originally used to make 
 
 ## Estimated Calories & Sources
 
-## Estimated Calories & Sources
-
 | **Ingredient**    | **Quantity**     | **Calories** | **Source**                                                                                                          |
 | ----------------- | ---------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- |
 | Penne Pasta (dry) | 18 oz (510 g)    | ~2,262 kcal  | [FatSecret](https://www.fatsecret.com/calories-nutrition/generic/penne-cooked?portionamount=6.000&portionid=320987) |
